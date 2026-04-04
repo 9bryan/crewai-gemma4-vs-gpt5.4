@@ -1,0 +1,1680 @@
+59.941 total seconds
+
+# AMD Company Intelligence Report
+
+## Executive Summary
+
+Advanced Micro Devices (NASDAQ: AMD) has evolved from a CPU challenger into a broader high-performance computing and AI infrastructure company, led by one of the semiconductor sector’s strongest executive teams. The company entered 2025 with improving financial momentum—FY2024 revenue rose 14% to $25.8 billion, profitability improved, and the balance sheet remained firmly net cash positive. What matters most now is whether AMD can translate product strength in EPYC CPUs and Instinct accelerators into durable share gains in AI systems, where competition increasingly depends on full-stack execution across silicon, software, and rack-scale infrastructure. In that context, AMD’s strategic posture is notably more ambitious than a year ago, but execution against Nvidia’s ecosystem advantage remains the central test.
+
+## Leadership
+
+AMD’s leadership team is a major asset and a meaningful source of strategic credibility. Chair, President, and CEO Dr. Lisa Su has led the company since October 2014 and is widely recognized as the architect of AMD’s turnaround. Her tenure stands out not only for longevity but for consistency of strategic direction: under her leadership, AMD repositioned around high-performance computing, data center, and now AI, moving well beyond a legacy PC-centric narrative. Her technical background and prior leadership experience at Freescale, IBM, and Texas Instruments have helped AMD maintain strong product and engineering discipline over long development cycles.
+
+That strength is reinforced by Mark Papermaster, EVP and CTO since 2011. Papermaster brings deep engineering leadership from IBM, Cisco, and Apple, and has provided continuity in AMD’s technical roadmap during a period when product execution has been central to the company’s resurgence. The stability of the Su-Papermaster pairing is a differentiator in a sector where roadmaps can slip and strategic pivots often create organizational whiplash.
+
+Jean Hu, who became CFO in January 2023, adds another important dimension. Her prior CFO experience at Marvell and earlier finance roles at Qorvo and International Paper make her a relevant choice for a company balancing growth investment, investor expectations, and capital allocation discipline. AMD’s recent financial progress gives her added credibility in communicating the company’s scaling story to the market.
+
+The broader leadership bench is also aligned with AMD’s current priorities. Darren Grasby, EVP, Chief Sales Officer and President, EMEA, strengthens global go-to-market execution, especially as AI and data center wins depend on deep customer engagement rather than transactional chip sales. Forrest Norrod, EVP and GM of the Data Center Solutions Business Unit, brings strong enterprise infrastructure expertise from Dell EMC and runs one of AMD’s most strategically important businesses.
+
+Overall team quality appears well above sector average. The key strengths are technical depth, execution continuity, and increasing commercial relevance in hyperscale and enterprise markets. The principal leadership risk is not capability but scale: as AMD pushes deeper into AI systems and infrastructure, operating complexity rises substantially. Sustaining execution while expanding beyond chips into more integrated solutions will test organizational depth.
+
+## Financial Profile
+
+AMD’s financial profile is strong and improving. For FY2024, the company reported revenue of $25.8 billion, up 14% year over year, reflecting renewed growth and support from stronger data center and client processor demand. Operating income reached $1.9 billion, implying an operating margin of roughly 7.4%, while net income totaled $1.6 billion. These figures indicate that AMD is not only growing again but also converting more of that growth into earnings.
+
+The balance sheet is a clear positive. AMD ended 2024 with $5.1 billion in cash, cash equivalents, and short-term investments against $1.7 billion in long-term debt, leaving the company in a net cash position. That gives AMD flexibility to fund R&D, support product ramps, absorb cyclical volatility, and invest in AI-related expansion without balance sheet strain.
+
+Momentum appears to have continued into 2025. In Q1 2025, AMD reported revenue of $7.4 billion, 50% gross margin, and $806 million in operating income. While one quarter does not define a trend, those numbers support the view that the company is entering 2025 with healthy demand and improving profitability.
+
+From a market perspective, AMD’s approximately $338.0 billion market capitalization as of April 4, 2026 shows investors are already assigning significant value to its role in AI and data center infrastructure. That valuation implies confidence, but also raises the execution bar.
+
+**Health rating: Strong.**  
+AMD combines revenue growth, improving earnings, and a solid net cash balance sheet better than most large-cap semiconductor challengers. The main financial watchpoints are margin sustainability, competitive pricing pressure in AI, and exposure to more cyclical end markets such as gaming and embedded.
+
+## Strategic Initiatives
+
+### 1. Instinct MI350/MI355X launch and broader AI accelerator push
+AMD’s most important initiative is the launch and ramp of its next-generation Instinct MI350-series GPUs. This is the centerpiece of the company’s AI training and inference strategy and its most direct attempt to capture a larger share of hyperscale AI infrastructure spending. The significance goes beyond a single product cycle: it signals that AMD sees AI accelerators as a core growth engine, not an adjacency. If successful, this initiative can meaningfully expand AMD’s relevance in one of the fastest-growing segments of semiconductors.
+
+### 2. Helios rack-scale systems plus ZT Systems integration
+AMD is moving up the stack from component supplier to systems provider through its Helios rack-scale AI platform and the completed acquisition of ZT Systems. Helios combines Instinct GPUs, EPYC CPUs, Pensando networking, and open rack designs, while ZT adds server and rack integration capabilities. Together, they signal a strategic shift: AMD is no longer competing only on chip performance, but on deployable AI infrastructure. This is a necessary move in a market where customers increasingly buy integrated clusters rather than isolated silicon.
+
+### 3. ROCm software ecosystem expansion
+ROCm is strategically critical because hardware alone will not close the gap with Nvidia. AMD’s continued investment in ROCm and open AI software signals recognition that ecosystem maturity, developer adoption, and deployment friction are now central competitive variables. This initiative matters because it addresses AMD’s biggest structural disadvantage: Nvidia’s software lock-in and developer mindshare. Progress here would strengthen the entire AI stack, from accelerators to systems.
+
+Taken together, these initiatives show a more coherent and aggressive AMD. EPYC “Turin” remains an important platform anchor, and Ryzen AI adds optionality in client computing, but the clearest directional signal is that AMD is building toward full-stack AI infrastructure leadership rather than simply defending its traditional CPU businesses.
+
+## Key Risks
+
+### 1. AI execution risk versus larger incumbents
+AMD’s opportunity in AI is substantial, but so is the challenge. Nvidia’s lead in accelerators, software, and ecosystem adoption remains formidable, and Intel remains a significant competitor in broader compute markets. AMD must prove that its new accelerators, systems, and software can scale in real customer environments—not just benchmark well or generate launch enthusiasm.
+
+### 2. Software and ecosystem gap
+ROCm is improving, but AMD is still working to reduce friction for developers and enterprise customers accustomed to CUDA-centric workflows. If software maturity lags hardware progress, AMD may struggle to convert product interest into sustained production deployments. This is arguably the most important strategic risk because ecosystem weakness can limit otherwise strong silicon.
+
+### 3. Increasing operational complexity
+AMD is entering a more demanding phase of its evolution. Moving into rack-scale systems, integrating ZT Systems, and coordinating CPUs, GPUs, networking, and software creates a materially more complex operating model. That raises execution risk across product delivery, customer support, supply chain coordination, and organizational integration. A stronger strategy can still underperform if the company’s systems execution does not scale with its ambition.
+
+## Overall Assessment
+
+AMD looks **Compelling**. The company combines strong leadership, improving financial performance, a healthy balance sheet, and a strategy that is increasingly aligned with where the AI infrastructure market is going. Most importantly, AMD is acting offensively: launching new accelerators, expanding into rack-scale systems, integrating server capabilities, and investing in software to become a more complete platform provider. The central question is no longer whether AMD has strategic ambition—it clearly does—but whether it can execute quickly enough to narrow ecosystem and scale advantages held by larger rivals. On balance, AMD’s current profile supports a favorable view: this is a high-quality semiconductor company with real momentum and meaningful upside if AI execution continues to improve. **Rating: Compelling.**
+
+
+####  LOGS  ####
+
+Running the Flow
+╭───────────────────────────────────────────────── 🌊 Flow Execution ──────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Starting Flow Execution                                                                                             │
+│  Name: CompanyResearchFlow                                                                                           │
+│  ID: 142bf5f9-8c97-4f54-9d20-00689400fc85                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 🌊 Flow Started ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Flow Started                                                                                                        │
+│  Name: CompanyResearchFlow                                                                                           │
+│  ID: 142bf5f9-8c97-4f54-9d20-00689400fc85                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+Flow started with ID: 142bf5f9-8c97-4f54-9d20-00689400fc85
+
+============================================================
+  Deep Research: AMD
+============================================================
+Launching 3 parallel research tracks (async)...
+
+╭─────────────────────────────────────────────── 🔄 Flow Method Running ───────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: initialize                                                                                                  │
+│  Status: Running                                                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── ✅ Flow Method Completed ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: initialize                                                                                                  │
+│  Status: Completed                                                                                                   │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────── 🔄 Flow Method Running ───────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: research_csuite                                                                                             │
+│  Status: Running                                                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+╭───────────────────────────────────────────── 🚀 Crew Execution Started ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Started                                                                                              │
+│  Name: crew                                                                                                          │
+│  ID: 3b6e3ac0-4aef-47ab-9fd6-adaabcff4845                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 📋 Task Started ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Started                                                                                                        │
+│  Name: research_csuite                                                                                               │
+│  ID: 60df59b9-cf62-4492-9d73-998ffa87547d                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Executive Intelligence Analyst for AMD                                                                       │
+│                                                                                                                      │
+│  Task: Research AMD's C-suite. Use 2–3 searches max.                                                                 │
+│  Find: CEO, CFO, CTO (and any other key C-level officers). For each: name, title, tenure, prior roles, and notable   │
+│  background facts.                                                                                                   │
+│  Then provide a 150–200 word leadership assessment covering team stability, experience depth, and an overall         │
+│  quality rating (Strong / Adequate / Concerning).                                                                    │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────────── 🔄 Flow Method Running ───────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: research_financials                                                                                         │
+│  Status: Running                                                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────── 🚀 Crew Execution Started ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Started                                                                                              │
+│  Name: crew                                                                                                          │
+│  ID: 0b933c0a-17a3-4aab-8139-9f6f5d73eab9                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 📋 Task Started ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Started                                                                                                        │
+│  Name: research_financials                                                                                           │
+│  ID: 89a7ee63-a6df-4594-9154-c65b61ccf1cd                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Financial Intelligence Analyst for AMD                                                                       │
+│                                                                                                                      │
+│  Task: Research the financial profile of AMD. Use 2–3 searches max.                                                  │
+│  First determine: public or private?                                                                                 │
+│  If PUBLIC: find recent annual revenue, operating margin, net income, debt vs. cash, market cap, and latest          │
+│  earnings headline.                                                                                                  │
+│  If PRIVATE: find total funding raised, last known valuation, latest funding round details, and any revenue          │
+│  estimates from press.                                                                                               │
+│  Then provide a 150–200 word financial assessment covering growth trend, profitability, balance sheet health, and    │
+│  an overall rating (Strong / Stable / Stressed).                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────── 🔄 Flow Method Running ───────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: research_initiatives                                                                                        │
+│  Status: Running                                                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+╭───────────────────────────────────────────── 🚀 Crew Execution Started ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Started                                                                                              │
+│  Name: crew                                                                                                          │
+│  ID: be28260c-d19a-4610-8e73-3ab9ff4ecb7a                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 📋 Task Started ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Started                                                                                                        │
+│  Name: research_initiatives                                                                                          │
+│  ID: 4d93cedd-f8a8-46ae-8d33-cbe7f399d78f                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Strategic Initiatives Analyst for AMD                                                                        │
+│                                                                                                                      │
+│  Task: Research AMD's current strategic initiatives. Use 2–3 searches max.                                           │
+│  Find 4–6 of the most significant things the company is doing right now: major product launches, AI investments,     │
+│  acquisitions, partnerships, restructuring programs, or expansion into new markets. For each, note the initiative    │
+│  name, brief description, and current status.                                                                        │
+│  Then provide a 150–200 word strategic assessment: which initiatives matter most, whether the company is on offense  │
+│  or defense, and an overall strategic momentum rating (Accelerating / Steady / Decelerating).                        │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#2) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'AMD latest earnings headline revenue investor relations 2025 Q1 earnings release'}          │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#1) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'AMD investor relations annual report 2024 revenue operating margin net income cash debt     │
+│  market cap latest earnings Q4 2024'}                                                                                │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#3) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'AMD market cap macrotrends companiesmarketcap April 2026'}                                  │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#3) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'AMD investor relations annual report 2024 revenue operating margin net income   │
+│  cash debt market cap latest earnings Q4 2024', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic':         │
+│  [{'title': '[PDF] 2024 Annual Report - Investor Relations', 'link':                                                 │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067185/0001193125-25-067185.pdf',       │
+│  'snippet': 'Annual revenue grew 14% to $25.8 billion as record Data Center and Client segment revenue more than     │
+│  offset declines in our Gaming and Embedded ...', 'position': 1}, {'title': '[PDF] 8-K - 10/29/2024 - Advanced       │
+│  Micro Devices, Inc. - AMD', 'link':                                                                                 │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-24-000161/0000002488-24-000161.pdf',       │
+│  'snippet': '― October 29, 2024 ― AMD (NASDAQ:AMD) today announced revenue for the third quarter of 2024 of $6.8     │
+│  billion, gross margin of 50%, operating ...', 'position': 2}, {'title': 'AMD reports fourth-quarter 2024 revenue -  │
+│  Jon Peddie Research', 'link': 'https://www.jonpeddie.com/news/amd-reports-fourth-quarter-2024-revenue/',            │
+│  'snippet': 'For the full-year 2024, AMD reported record revenue of $25.8 billion, gross margin of 49%, operating    │
+│  income of $1.9 billion, net income of $1.6 ...', 'position': 3}, {'title': '[PDF] Fourth Quarter and Full Year      │
+│  2024 Earnings - Cloudfront.net', 'link':                                                                            │
+│  'https://d1io3yog0oux5.cloudfront.net/_a22f2d8a908e6a4494e392f5948a0546/amd/db/841/9090/presentation/AMD+Q4%2724+E  │
+│  arnings+Slides+.pdf', 'snippet': "This presentation also contains forward looking non GAAP measures concerning      │
+│  AMD's financial outlook such as gross margin and operating expenses ...", 'position': 4}, {'title': 'Advanced       │
+│  Micro Devices Inc (AMD) Q4 2024 Earnings Call Highlights', 'link':                                                  │
+│  'https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-071528973.html', 'snippet': 'Annual Revenue: $25.8   │
+│  billion, up 14% year over year. Fourth Quarter Revenue: $7.7 billion, up 24% year over year.', 'position': 5},      │
+│  {'title': '[PDF] 8-K - 02/04/2025 - Advanced Micro Devices, Inc. - Investor Relations', 'link':                     │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000009/0000002488-25-000009.pdf',       │
+│  'snippet': 'For the full year 2024, AMD reported record revenue of $25.8 billion, gross margin of 49%, operating    │
+│  income of $1.9 billion, net income of. $1.6 ...', 'position': 6}, {'title': 'amd-20241228 - SEC.gov', 'link':       │
+│  'https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/amd-20241228.htm', 'snippet': 'The following       │
+│  table provides a summary of net revenue and operating income (loss) by segment for 2024 and 2023: ... Adjustments   │
+│  to reconcile net income to net ...', 'position': 7}, {'title': '[PDF] 8-K - 07/30/2024 - Advanced Micro Devices,    │
+│  Inc. - Investor Relations', 'link':                                                                                 │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-24-000121/0000002488-24-000121.pdf',       │
+│  'snippet': '― July 30, 2024 ― AMD (NASDAQ:AMD) today announced revenue for the second quarter of 2024 of $5.8       │
+│  billion, gross margin of 49%, operating income ...', 'position': 8}, {'title': 'AMD reports profit beat, but        │
+│  misses on data center revenue - CNBC', 'link': 'https://www.cnbc.com/2025/02/04/amd-earnings-report-q4-2024.html',  │
+│  'snippet': 'Analysts expected AMD to guide for revenue of $7 billion. AMD reported $482 million in net income, or   │
+│  29 cents per share, for the fourth quarter ...', 'position': 9}], 'peopleAlsoAsk': [{'question': 'What is the       │
+│  operating profit margin for AMD in 2024?', 'snippet': 'Chart\nAMD (AMD) Annual Operating                            │
+│  Margin\n\n2024\n7.37%\n2023\n1.77%\n2022\n5.36%\n2021\n22.2%', 'title': 'AMD Operating Margin 2012-2025 -           │
+│  Macrotrends', 'link': 'https://www.macrotrends.net/stocks/charts/AMD/amd/operating-margin'}, {'question': "What is  │
+│  AMD's latest earnings?", 'snippet': "AMD Latest Earnings AMD reported its most recent earnings on Feb 3, 2026 for   │
+│  Q4 2025, posting earnings per share (EPS) of $1.53. This exceeded analysts' expectations of $1.24 by 23.39%,        │
+│  marking a Beat. For comparison, Advanced Micro Devices reported EPS of $1.09 in the same quarter last year.",       │
+│  'title': 'AMD Earnings: Latest Report, Earnings Call & Financials', 'link':                                         │
+│  'https://public.com/stocks/amd/earnings'}], 'relatedSearches': [{'query': 'AMD Annual Report 2023'}, {'query':      │
+│  'AMD Annual Report 2024'}, {'query': 'AMD Annual Report 2025'}, {'query': 'AMD revenue 2024'}, {'query': 'AMD       │
+│  Annual Report 2023 PDF'}, {'query': 'AMD annual revenue 2025'}, {'query': 'AMD profit 2024'}, {'query': 'AMD Q4     │
+│  earnings 2025'}], 'credits': 1}                                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#3) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'AMD latest earnings headline revenue investor relations 2025 Q1 earnings        │
+│  release', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Reports Strong Q1 2025       │
+│  Results', 'link': 'https://leverageshares.com/us/insights/amd-reports-strong-q1-2025-results/', 'snippet': 'AMD     │
+│  reported adjusted earnings per share (EPS) of $0.96, topping the consensus estimate of $0.94. Revenue for the       │
+│  quarter came in at $7.44 billion, a 36% year- ...', 'position': 1}, {'title': 'Advanced Micro Devices, Inc.         │
+│  (AMD)', 'link': 'https://ir.amd.com/', 'snippet': '“2025 was a defining year for AMD, with record revenue and       │
+│  earnings driven by strong execution and broad-based demand for our high-performance and AI platforms.',             │
+│  'position': 2}, {'title': '[PDF] 8-K - 05/06/2025 - Advanced Micro Devices, Inc. - Investor Relations', 'link':     │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000045/0000002488-25-000045.pdf',       │
+│  'snippet': '― May 6, 2025 ― AMD (NASDAQ:AMD) today announced financial results for the first quarter of 2025.       │
+│  First quarter revenue was $7.4 billion, gross ...', 'position': 3}, {'title': 'Advanced Micro Devices, Inc. (AMD)   │
+│  Q1 FY2025 earnings call ...', 'link':                                                                               │
+│  'https://finance.yahoo.com/quote/AMD/earnings/AMD-Q1-2025-earnings_call-312657.html/', 'snippet': 'Turning to our   │
+│  client and gaming segment, segment revenue increased 28% year-over-year to $2.9 billion. Client revenue grew 68%    │
+│  year-over-year, ...', 'position': 4}, {'title': 'AMD earnings report Q1 2025 - CNBC', 'link':                       │
+│  'https://www.cnbc.com/2025/05/06/amd-earnings-report-q1-2025-.html', 'snippet': 'Earnings per share: 96 cents       │
+│  adjusted vs. 94 cents expected · Revenue: $7.44 billion vs. $7.13 billion expected.', 'position': 5}, {'title':     │
+│  'AMD Reports First Quarter 2025 Financial Results | TechPowerUp', 'link':                                           │
+│  'https://www.techpowerup.com/336466/amd-reports-first-quarter-2025-financial-results', 'snippet': 'AMD today        │
+│  announced financial results for the first quarter of 2025. First quarter revenue was $7.4 billion, gross margin     │
+│  was 50%, operating income was $806 ...', 'position': 6}, {'title': '[PDF] 8-K - 08/05/2025 - Advanced Micro         │
+│  Devices, Inc. - Investor Relations', 'link':                                                                        │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000106/0000002488-25-000106.pdf',       │
+│  'snippet': '― August 5, 2025 ― AMD (NASDAQ:AMD) today announced financial results for the second quarter of 2025.   │
+│  Second quarter revenue was a record $7.7 ...', 'position': 7}, {'title': 'Advanced Micro Devices Q1 2025 Earnings   │
+│  Call | $AMD - YouTube', 'link': 'https://www.youtube.com/watch?v=hwMpsxQRJQg', 'snippet': 'Advanced Micro Devices   │
+│  Q1 2025 Earnings Call AMD Q1 Earnings: Revenue, EPS Beat Driven By Expanding Data Center, AI Momentum, ...',        │
+│  'position': 8}, {'title': 'AMD Q1 2025 earnings results beat EPS and revenue expectations', 'link':                 │
+│  'http://www.shacknews.com/article/144172/amd-q1-2025-earnings-results', 'snippet': 'AMD shared its Q1 2025          │
+│  earnings results on its investor relations website this week. There, the company shared that its revenue was $7.4   │
+│  billion.', 'position': 9}], 'peopleAlsoAsk': [{'question': 'Why did AMD drop after earnings today?', 'snippet':     │
+│  "Chipmaker Advanced Micro Devices reported better-than-expected quarterly earnings, yet its stock slipped after     │
+│  the company projected a 5% sequential revenue decline over the current quarter. Fourth quarter revenue came in at   │
+│  $10.27 billion, with sales for AMD's all-important data center business up 39%.", 'title': 'AMD shares drop         │
+│  despite earnings beat - LinkedIn', 'link':                                                                          │
+│  'https://www.linkedin.com/news/story/amd-shares-drop-despite-earnings-beat-6965308/'}], 'relatedSearches':          │
+│  [{'query': 'AMD Q1 earnings 2025 date'}, {'query': 'Amd earnings q2 2025'}, {'query': 'AMD Q1 earnings 2026'},      │
+│  {'query': 'AMD earnings 2025'}, {'query': 'AMD Q3 earnings 2025'}, {'query': 'AMD revenue 2025'}, {'query': 'Amd    │
+│  q3 2025 earnings call transcript'}, {'query': 'AMD Annual Report 2024'}], 'credits': 1}                             │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#3) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'AMD market cap macrotrends companiesmarketcap April 2026', 'type': 'search',    │
+│  'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Market Cap 2012-2025 - Macrotrends', 'link':             │
+│  'https://www.macrotrends.net/stocks/charts/AMD/amd/market-cap', 'snippet': 'AMD market cap as of April 04, 2026 is  │
+│  $338.02B. ... AMD market cap history and chart from 2012 to 2025. Market capitalization (or market value) is the    │
+│  most ...', 'position': 1}, {'title': '42 Year Stock Price History | AMD - Macrotrends', 'link':                     │
+│  'https://www.macrotrends.net/stocks/charts/AMD/amd/stock-price-history', 'snippet': 'The latest closing stock       │
+│  price for AMD as of April 02, 2026 is 217.50. An investor who bought $1,000 worth of AMD stock at the IPO in 1984   │
+│  would have $13,325 ...', 'position': 2}, {'title': 'AMD (AMD) - Stock price history - Companies Market Cap',        │
+│  'link': 'https://companiesmarketcap.com/amd/stock-price-history/', 'snippet': 'Annual Stock Price Performance ;     │
+│  2026, -1.84% ; 2025, 77.53% ; 2024, -12.84% ; 2023, 130.26%.', 'position': 3}, {'title': 'AMD Apr 2026 222.500      │
+│  call (AMD260402C00222500)', 'link': 'https://finance.yahoo.com/quote/AMD260402C00222500/', 'snippet': 'AMD          │
+│  222.5000 C. Apr 2, 2026. 0.0100 -87.50%. Summary · Chart · Historical Data. OPR - Delayed Quote • USD. AMD Apr      │
+│  2026 222.500 call (AMD260402C00222500).', 'position': 4}, {'title': 'Largest Companies by Market Cap in 2026 -      │
+│  AlphaSense', 'link': 'https://www.alpha-sense.com/largest-companies-by-market-cap/', 'snippet': 'This list          │
+│  features the top 50 companies by market cap, and it includes companies and index funds listed on major US stock     │
+│  exchanges.', 'position': 5}, {'title': 'Advanced Micro Devices Stock Forecast 2026–2030 | Future Outlook', 'link':  │
+│  'https://capital.com/en-int/market-updates/amd-stock-forecast-17-02-2026', 'snippet': "(AMD) is trading around      │
+│  $216.06 in early US trade on 10 February 2026, within an intraday range of $205.32–$217.36 on Capital.com's feed    │
+│  as of ...", 'position': 6}, {'title': 'Amd Market Cap In 2026 | StatMuse Money', 'link':                            │
+│  'https://www.statmuse.com/money/ask/amd-market-cap-in-2026', 'snippet': 'Today, Advanced Micro Devices (AMD) had a  │
+│  market capitalization of $354.4B, based on 1.61B shares at a price of $220.27.', 'position': 7}, {'title':          │
+│  'Advanced Micro Devices (AMD) Market Cap & Net Worth', 'link': 'https://stockanalysis.com/stocks/amd/market-cap/',  │
+│  'snippet': 'Advanced Micro Devices has a market cap or net worth of $354.6 billion as of April 2, 2026. Its market  │
+│  cap has increased by 105.99% in one year. Market Cap.', 'position': 8}, {'title': 'Advanced Micro Devices (AMD)     │
+│  Market Cap History Charts', 'link': 'https://www.financecharts.com/stocks/AMD/summary/market-cap', 'snippet': "The  │
+│  current market cap or net worth for Advanced Micro Devices (AMD) stock is $353.163B as of Thursday, April 02 2026.  │
+│  It's increased by 13.44% over the ...", 'position': 9}], 'peopleAlsoAsk': [{'question': 'What are the risks of AMD  │
+│  stock in 2026?', 'snippet': 'Advanced Micro Devices is facing a significant challenge as management forecasts a     │
+│  considerable double-digit decline in semi-custom revenue for 2026, mainly due to the maturity of the current        │
+│  console cycle and delays in next-generation platform launches.', 'title': 'AMD Stock Forecast: Analyst Ratings,     │
+│  Predictions & Price Target 2026', 'link': 'https://public.com/stocks/amd/forecast-price-target'}, {'question':      │
+│  'What is AMD earnings forecast for 2026?', 'snippet': 'For comparison, Advanced Micro Devices reported EPS of       │
+│  $1.09 in the same quarter last year. The company is expected to announce its next earnings report on 05/05/2026 ,   │
+│  with analysts projecting an EPS of $1.18.', 'title': 'AMD Earnings: Latest Report, Earnings Call & Financials',     │
+│  'link': 'https://public.com/stocks/amd/earnings'}], 'relatedSearches': [{'query': 'Amd market cap macrotrends       │
+│  companiesmarketcap april 2026 stocks'}, {'query': 'Amd market cap macrotrends companiesmarketcap april 2026         │
+│  graph'}, {'query': 'Amd market cap macrotrends companiesmarketcap april 2026 chart'}, {'query': 'Amd market cap     │
+│  macrotrends companiesmarketcap april 2026 price'}, {'query': 'AMD market cap 2025'}, {'query': 'AMD - market cap    │
+│  history'}, {'query': 'AMD - market cap in USD'}, {'query': 'Nvidia market cap'}], 'credits': 1}                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'AMD investor relations annual report 2024 revenue operating margin net income cash debt market cap latest earnings Q4 2024', 'type': 'search', 'num': 10, 'engine': 'google'...[0m
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'AMD latest earnings headline revenue investor relations 2025 Q1 earnings release', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Reports Stro...[0m
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'AMD market cap macrotrends companiesmarketcap April 2026', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Market Cap 2012-2025 - Macrotrends',...[0m
+
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#4) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'AMD Q4 2024 earnings call strategic initiatives MI325X ZT Systems ROCm partnerships press   │
+│  release'}                                                                                                           │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#5) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'AMD 2025 press release MI350 Helios rack ZT Systems acquisition ROCm open AI news'}         │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#6) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'site:amd.com newsroom AMD strategic initiatives 2025 AI PC Ryzen AI EPYC Turin Pensando'}   │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#6) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'site:amd.com newsroom AMD strategic initiatives 2025 AI PC Ryzen AI EPYC Turin  │
+│  Pensando', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD EPYC™ Servers are the       │
+│  Foundation for Data Center AI', 'link': 'https://www.amd.com/en/products/processors/server/epyc/ai.html',           │
+│  'snippet': 'Learn how AMD EPYC processors enhance AI workloads, and help businesses unlock new opportunities,       │
+│  optimize operations, and deliver exceptional value.', 'position': 1}, {'title': 'Agentic AI Brings New Attention    │
+│  to CPUs in the AI Data Center - AMD', 'link':                                                                       │
+│  'https://www.amd.com/en/blogs/2026/agentic-ai-brings-new-attention-to-cpus-in-the-ai-data.html', 'snippet': 'AMD    │
+│  EPYC™ server CPUs help customers build balanced, open AI infrastructure working in lockstep with AMD Instinct™      │
+│  GPUs, AMD Pensando™ ...', 'position': 2, 'sitelinks': [{'title': 'At A Glance', 'link':                             │
+│  'https://www.amd.com/en/blogs/2026/agentic-ai-brings-new-attention-to-cpus-in-the-ai-data.html#:~:text=At%20a%20gl  │
+│  ance%3A'}, {'title': 'How Cpus And Gpus Work...', 'link':                                                           │
+│  'https://www.amd.com/en/blogs/2026/agentic-ai-brings-new-attention-to-cpus-in-the-ai-data.html#:~:text=How%20CPUs%  │
+│  20and%20GPUs%20Work%20Together'}, {'title': 'Agentic Ai Leans On The Cpu', 'link':                                  │
+│  'https://www.amd.com/en/blogs/2026/agentic-ai-brings-new-attention-to-cpus-in-the-ai-data.html#:~:text=Agentic%20A  │
+│  I%20Leans%20on%20the%20CPU'}]}, {'title': 'Winning at Every Core Count: Maximizing Performance, Minimizing ...',    │
+│  'link': 'https://www.amd.com/en/blogs/2025/winning-at-every-core-count--maximizing-performance--minimizing-.html',  │
+│  'snippet': 'This follow-up takes a deeper look at performance comparisons between AMD EPYC 9005 (“Turin”) and       │
+│  Intel® Xeon® 6 (“Granite Rapids SP”), focusing ...', 'position': 3}, {'title': 'AMD Launches 5th Gen AMD EPYC       │
+│  CPUs, Maintaining Leadership ...', 'link':                                                                          │
+│  'https://www.amd.com/en/newsroom/press-releases/2024-10-10-amd-launches-5th-gen-amd-epyc-cpus-maintaining-le.html'  │
+│  , 'snippet': 'The new 5 th Gen AMD EPYC processors provide leading performance and capabilities for the broad       │
+│  spectrum of server workloads driving business IT today.', 'position': 4}, {'title': 'Simultaneous Multithreading:   │
+│  Driving Performance and Efficiency on ...', 'link':                                                                 │
+│  'https://www.amd.com/en/blogs/2025/simultaneous-multithreading-driving-performance-a.html', 'snippet':              │
+│  'Simultaneous Multithreading: Driving Performance and Efficiency on AMD EPYC CPUs. Mar 03, 2025. Abstract           │
+│  background with x-rays.', 'position': 5}, {'title': 'AMD Advancing AI 2026 | San Francisco, July 22-23', 'link':    │
+│  'https://www.amd.com/en/corporate/events/advancing-ai.html', 'snippet': 'Learn how to build on AMD platforms using  │
+│  the popular AI frameworks & tools you already know. Join sessions on creating and running AI agents, optimizing     │
+│  models ...', 'position': 6}, {'title': 'IBM and AMD Join Forces to Build the Future of Computing', 'link':          │
+│  'https://www.amd.com/en/newsroom/press-releases/2025-8-26-ibm-and-amd-join-forces-to-build-the-future-o.html',      │
+│  'snippet': "AMD and IBM are collaborating to develop scalable, open-source platforms that could redefine the        │
+│  future of computing, leveraging IBM's ...", 'position': 7}, {'title': 'AMD Delivering Open Rack Scale AI            │
+│  Infrastructure', 'link':                                                                                            │
+│  'https://www.amd.com/en/blogs/2025/amd-delivering-open-rack-scale-ai-infrastructure-to-unlock-agentic-ai.html',     │
+│  'snippet': 'AMD delivers open rack-scale AI solution and previews next generation “Helios” AI rack based on Next    │
+│  Generation Instinct, EPYC and Pensando', 'position': 8, 'sitelinks': [{'title': 'At A Glance', 'link':              │
+│  'https://www.amd.com/en/blogs/2025/amd-delivering-open-rack-scale-ai-infrastructure-to-unlock-agentic-ai.html#:~:t  │
+│  ext=At%20a%20Glance%3A'}, {'title': 'A Proven Foundation...', 'link':                                               │
+│  'https://www.amd.com/en/blogs/2025/amd-delivering-open-rack-scale-ai-infrastructure-to-unlock-agentic-ai.html#:~:t  │
+│  ext=A%20Proven%20Foundation%20%2D%2D%20Available%20Today'}, {'title': 'Introducing Next-Generation...', 'link':     │
+│  'https://www.amd.com/en/blogs/2025/amd-delivering-open-rack-scale-ai-infrastructure-to-unlock-agentic-ai.html#:~:t  │
+│  ext=Introducing%20Next%2DGeneration%20AMD%20AI%20Rack%20Infrastructure%3A%20%60%60Helios%27%27'}]}, {'title':       │
+│  'Accelerating Energy Efficiency: Our Latest 30x25 Update - AMD', 'link':                                            │
+│  'https://www.amd.com/en/blogs/2024/accelerating-energy-efficiency-our-latest-30x25-u.html', 'snippet': 'In 2021,    │
+│  we announced our 30x25 goal, a vision to deliver a 30x energy efficiency improvement for AMD EPYC™ CPUs and AMD     │
+│  Instinct™ accelerators ...', 'position': 9}, {'title': 'PCIe Specification Issues - AMD', 'link':                   │
+│  'https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7056.html', 'snippet': 'At this time, AMD        │
+│  believes the following products may be impacted. AMD EPYC™ 9005 Series Processors; AMD EPYC™ Embedded 9005 Series   │
+│  Processors. Updated February ...', 'position': 10, 'sitelinks': [{'title': 'Summary', 'link':                       │
+│  'https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7056.html#:~:text=Summary,-PCIe%20SIG%20in%20in  │
+│  dustry%20coordination'}, {'title': 'Cve Details', 'link':                                                           │
+│  'https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7056.html#:~:text=CVE%20Details,-Refer%20to%20G  │
+│  lossary%20for%20Explanation'}, {'title': 'Affected Products And...', 'link':                                        │
+│  'https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7056.html#:~:text=Affected%20Products%20and%20M  │
+│  itigation'}]}], 'credits': 1}                                                                                       │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#6) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'AMD 2025 press release MI350 Helios rack ZT Systems acquisition ROCm open AI    │
+│  news', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Unveils Vision for an Open AI   │
+│  Ecosystem, Detailing New ...', 'link':                                                                              │
+│  'https://www.amd.com/en/newsroom/press-releases/2025-6-12-amd-unveils-vision-for-an-open-ai-ecosystem-detai.html',  │
+│  'snippet': 'AMD (NASDAQ: AMD) delivered its comprehensive, end-to-end integrated AI platform vision and introduced  │
+│  its open, scalable rack-scale AI infrastructure.', 'position': 1}, {'title': 'AMD Showcases “Helios” Rack-Scale     │
+│  Platform Built on the Open ...', 'link':                                                                            │
+│  'https://ir.amd.com/news-events/press-releases/detail/1261/amd-showcases-helios-rack-scale-platform-built-on-the-o  │
+│  pen-compute-project-open-rack-for-ai-introduced-by-meta', 'snippet': 'At OCP Global Summit 2025, AMD showcased its  │
+│  “Helios” rack-scale design, an open-based AI reference platform aligned with the new Open Rack Wide ...',           │
+│  'position': 2}, {'title': 'AMD unveils AI server as OpenAI taps its newest chips - Reuters', 'link':                │
+│  'https://www.reuters.com/business/amd-ceo-unveils-new-ai-chips-2025-06-12/', 'snippet': 'AMD completed the          │
+│  acquisition of server builder ZT Systems in March. As a result, AMD is expected to launch new complete AI systems,  │
+│  similar ...', 'position': 3}, {'title': 'AMD and OpenAI Announce Strategic Partnership to Deploy 6 ...', 'link':    │
+│  'https://www.amd.com/en/newsroom/press-releases/2025-10-6-amd-and-openai-announce-strategic-partnership-to-d.html'  │
+│  , 'snippet': "06, 2025 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and OpenAI today announced a 6 gigawatt agreement to   │
+│  power OpenAI's next-generation AI ...", 'position': 4}, {'title': 'AMD: The Trillion-Dollar Rack-Scale Arbitrage    │
+│  Behind The OpenAI ...', 'link':                                                                                     │
+│  'https://seekingalpha.com/article/4859602-amd-stock-trillion-dollar-rack-scale-arbitrage-behind-the-openai-deal',   │
+│  'snippet': 'The reason behind this rating is the merging of the Helios rack-scale architecture, the strategic       │
+│  6-gigawatt deal with OpenAI, and the vertical ...', 'position': 5}, {'title': "AMD Helios - AI Rack Built on        │
+│  Meta's 2025 OCP Design", 'link':                                                                                    │
+│  'https://www.amd.com/en/blogs/2025/amd-helios-ai-rack-built-on-metas-2025-ocp-design.html', 'snippet': 'The AMD     │
+│  “Helios” AI rack is built on the blueprint of open design submitted by Meta at OCP 2025 to enable optimized,        │
+│  deployable performance ...', 'position': 6}, {'title': 'AMD eyes AI inference gains with new Instinct               │
+│  accelerators, GPU ...', 'link':                                                                                     │
+│  'https://www.constellationr.com/insights/news/amd-eyes-ai-inference-gains-new-instinct-accelerators-gpu-open-rack-  │
+│  systems', 'snippet': 'AMD launched new Instinct MI350 Series accelerators, previewed Instinct MI400 Series GPUs     │
+│  and outlined its next-gen AI rack systems that ...', 'position': 7}, {'title': "AMD's $4.9 Billion Bet on ZT        │
+│  Systems Pays Off - Markets", 'link':                                                                                │
+│  'http://markets.chroniclejournal.com/chroniclejournal/article/marketminute-2026-2-5-amds-49-billion-bet-on-zt-syst  │
+│  ems-pays-off-the-new-front-in-the-ai-infrastructure-war', 'snippet': 'The acquisition, which cleared its final      │
+│  regulatory and divestiture hurdles in late 2025, has allowed AMD to offer a credible "rack-level" ...',             │
+│  'position': 8}, {'title': 'AMD Advancing AI 2025 Press Kit', 'link':                                                │
+│  'https://www.amd.com/en/newsroom/press-kits/advancing-ai-2025.html', 'snippet': 'AMD Unveils Vision for the Open    │
+│  AI Ecosystem, Detailing New Silicon, Software and Systems at Advancing AI 2025 · AMD Delivering Open Rack Scale AI  │
+│  Infrastructure.', 'position': 9}, {'title': 'AMD Completes Acquisition of ZT Systems - Stock Titan', 'link':        │
+│  'https://www.stocktitan.net/news/AMD/amd-completes-acquisition-of-zt-oefbpwtmxbl5.html', 'snippet': "The            │
+│  acquisition combines AMD's GPU, CPU, and networking silicon with ZT Systems' rack-level expertise and AMD's         │
+│  open-source ROCm™ software.", 'position': 10}], 'peopleAlsoAsk': [{'question': 'Is China buying AMD chips?',        │
+│  'snippet': "Alibaba, the Chinese online retail and cloud computing giant, has emerged as one of China's AI leaders  │
+│  this year, helping the stock rally almost 80% in 2025. The company is reportedly buying AMD's MI308 chip—a version  │
+│  of the more powerful MI300 chip downgraded for export to China.", 'title': 'Alibaba Shows China May Be the Next     │
+│  Frontier for Nvidia and AMD', 'link': 'https://www.barrons.com/articles/alibaba-nvidia-amd-stock-china-2a9b98a5'},  │
+│  {'question': 'What is an AMD Helios rack?', 'snippet': "Helios is a double-wide server rack that weighs nearly      │
+│  7,000 pounds (about the weight of two compact cars), built to be a “plug-and-play” supercomputer for the world's    │
+│  largest AI companies. Delivering up to 2.9 exaflops of AI performance, according to Dr.", 'title': 'AMD unveiled    │
+│  "Helios" Blueprint for Global AI Scale - hyperight.com', 'link':                                                    │
+│  'https://hyperight.com/amd-helios-ai-rack-nvidia-competitor/'}, {'question': 'Will AMD boom in 2025?', 'snippet':   │
+│  'AMD reiterated its long-term financial targets, first provided at its November 2025 analyst day, calling for a     │
+│  35% revenue compound annual growth rate over the next three to five years. Within, AMD still expects a 60% CAGR in  │
+│  data center revenue, aiming for $100 billion by 2030 versus $16.6 billion in 2025.', 'title': 'AMD earnings: Data   │
+│  center demand still looks quite strong to us', 'link':                                                              │
+│  'https://www.morningstar.com.au/stocks/amd-earnings-data-center-demand-still-looks-quite-strong-us'}, {'question':  │
+│  'Did OpenAI buy 10% of AMD?', 'snippet': 'TLDR: AMD gave OpenAI warrants for 10% equity for buying chips.',         │
+│  'title': "AMD just handed OpenAI 10% of their company for chips that don't exist yet", 'link':                      │
+│  'https://www.reddit.com/r/ArtificialInteligence/comments/1o2t5gl/amd_just_handed_openai_10_of_their_company_for/'}  │
+│  ], 'relatedSearches': [{'query': 'AMD Advancing AI 2025'}, {'query': 'AMD MI400 release date'}, {'query': 'AMD      │
+│  MI400 vs Nvidia'}, {'query': 'Amd mi400 vs blackwell'}, {'query': 'AMD Helios rack'}, {'query': 'AMD MI450'},       │
+│  {'query': 'AMD Helios Meta'}, {'query': 'MI400 AMD'}], 'credits': 1}                                                │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#6) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'AMD Q4 2024 earnings call strategic initiatives MI325X ZT Systems ROCm          │
+│  partnerships press release', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Reports   │
+│  Fourth Quarter and Full Year 2024 Financial Results', 'link':                                                       │
+│  'https://ir.amd.com/news-events/press-releases/detail/1236/amd-reports-fourth-quarter-and-full-year-2024-financial  │
+│  -results', 'snippet': 'For the full year 2024, AMD reported record revenue of $25.8 billion, gross margin of 49%,   │
+│  operating income of $1.9 billion, net income of $1.6 billion, and ...', 'position': 1}, {'title': 'Advanced Micro   │
+│  Devices, Inc. (AMD) Q4 2024 Earnings Call Transcript', 'link':                                                      │
+│  'https://seekingalpha.com/article/4754875-advanced-micro-devices-inc-amd-q4-2024-earnings-call-transcript',         │
+│  'snippet': 'On the AI software front, we made significant progress across all layers of the ROCm stack in 2024.     │
+│  Our strategy is to establish AMD ROCm as ...', 'position': 2}, {'title': 'AMD to Report Fiscal Fourth Quarter and   │
+│  Full Year 2024 Financial ...', 'link':                                                                              │
+│  'https://ir.amd.com/news-events/press-releases/detail/1235/amd-to-report-fiscal-fourth-quarter-and-full-year-2024-  │
+│  financial-results', 'snippet': 'AMD (NASDAQ: AMD) announced today that it will report fiscal fourth quarter and     │
+│  full year 2024 financial results on Tuesday, Feb. 4, 2025, after the close of ...', 'position': 3}, {'title':       │
+│  'Advanced Micro Devices (AMD) Q4 2024 Earnings Call Transcript', 'link':                                            │
+│  'https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/30771601/advanced-micro-devices-amd-  │
+│  q4-2024-earnings-call-transcript/', 'snippet': 'On the AI software front, we made significant progress across all   │
+│  layers of the ROCm stack in 2024. Our strategy is to establish AMD ROCm as ...', 'position': 4}, {'title':          │
+│  'Advanced Micro Devices Inc (AMD) Q4 2024 Earnings Call Highlights', 'link':                                        │
+│  'https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-071528973.html', 'snippet': 'AMD reports a strong    │
+│  finish to 2024 with significant gains in data center and client segments, despite challenges in gaming and          │
+│  embedded ...', 'position': 5}, {'title': 'AMD Q4 2024 Earnings Discussion : r/AMD_Stock - Reddit', 'link':          │
+│  'https://www.reddit.com/r/AMD_Stock/comments/1ihnxpm/amd_q4_2024_earnings_discussion/', 'snippet': "They don't      │
+│  have the software capability to improve ROCM. TikTok is probably the biggest customer of mi325x, but it's only a    │
+│  temporary plan.", 'position': 6}, {'title': '[PDF] AMD Fiscal Third Quarter 2024 Financial Results -                │
+│  Cloudfront.net', 'link':                                                                                            │
+│  'https://d1io3yog0oux5.cloudfront.net/_a22f2d8a908e6a4494e392f5948a0546/amd/db/841/8900/webcast_transcript/AMD+3Q2  │
+│  4call.pdf', 'snippet': "The full non-GAAP to GAAP reconciliations are available in today's press release, and the   │
+│  slides posted on our website. Participants on today's conference call ...", 'position': 7}, {'title': 'Advanced     │
+│  Micro Devices Q4 FY25 Earnings Call | $AMD - YouTube', 'link': 'https://www.youtube.com/watch?v=_axi0nsx93A',       │
+│  'snippet': 'Advanced Micro Devices Q4 FY25 Earnings Call | $AMD https://www.benzinga.com/quote/AMD/earnings Need a  │
+│  transcript of the call?', 'position': 8}, {'title': 'AMD Reports Fourth Quarter and Full Year 2025 Financial        │
+│  Results', 'link':                                                                                                   │
+│  'https://ir.amd.com/news-events/press-releases/detail/1276/amd-reports-fourth-quarter-and-full-year-2025-financial  │
+│  -results', 'snippet': 'AMD will hold a conference call at 2:00 p.m. PT (5:00 p.m. ET) today to discuss its fourth   │
+│  quarter and full year 2025 financial results. AMD ...', 'position': 9}, {'title': 'AMD Q3 2024 Financial Results    │
+│  Overview | PDF - Scribd', 'link': 'https://www.scribd.com/document/901812190/0000002488-24-000161', 'snippet':      │
+│  "(*) In this earnings press release, in addition to GAAP financial results, AMD ... ZT Systems influence its        │
+│  long-term strategic goals? AMD's ...", 'position': 10}], 'peopleAlsoAsk': [{'question': 'Why did AMD drop after     │
+│  earnings today?', 'snippet': "Chipmaker Advanced Micro Devices reported better-than-expected quarterly earnings,    │
+│  yet its stock slipped after the company projected a 5% sequential revenue decline over the current quarter. Fourth  │
+│  quarter revenue came in at $10.27 billion, with sales for AMD's all-important data center business up 39%.",        │
+│  'title': 'AMD shares drop despite earnings beat - LinkedIn', 'link':                                                │
+│  'https://www.linkedin.com/news/story/amd-shares-drop-despite-earnings-beat-6965308/'}], 'relatedSearches':          │
+│  [{'query': 'AMD Annual Report 2023'}, {'query': 'AMD Annual Report 2024'}, {'query': 'AMD Q4 earnings 2025'},       │
+│  {'query': 'AMD profit 2024'}, {'query': 'AMD Annual Report 2025'}, {'query': 'AMD Q4 earnings date 2025'},          │
+│  {'query': 'AMD revenue 2025'}, {'query': 'AMD revenue 2024'}], 'credits': 1}                                        │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'AMD Q4 2024 earnings call strategic initiatives MI325X ZT Systems ROCm partnerships press release', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': ...[0m
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'AMD 2025 press release MI350 Helios rack ZT Systems acquisition ROCm open AI news', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Unveils Vis...[0m
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'site:amd.com newsroom AMD strategic initiatives 2025 AI PC Ryzen AI EPYC Turin Pensando', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD EPYC™...[0m
+
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#7) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'AMD executive leadership CEO CFO CTO investor relations executive team'}                    │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#8) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'site:amd.com leadership Dr. Lisa Su Jean Hu Mark Papermaster executive team AMD'}           │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────── 🔧 Tool Execution Started (#9) ───────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Args: {'search_query': 'AMD SEC 10-K executive officers Lisa Su Jean Hu Mark Papermaster'}                          │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#9) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'site:amd.com leadership Dr. Lisa Su Jean Hu Mark Papermaster executive team     │
+│  AMD', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Leadership and Executive Team',  │
+│  'link': 'https://www.amd.com/en/corporate/leadership.html', 'snippet': 'Executive Leadership Team ; Dr. Lisa Su.    │
+│  Chair and Chief Executive Officer. Meet Lisa ; Darren Grasby. Executive Vice President, Chief Sales Officer and     │
+│  President ...', 'position': 1}, {'title': 'February 17, 2026 - 8-K: Current report | Advanced Micro ... - AMD',     │
+│  'link': 'https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000029/amd-20260210.htm',       │
+│  'snippet': 'Jean Hu, Executive Vice President, Chief Financial Officer and Treasurer ; Mark Papermaster, Executive  │
+│  Vice President and Chief Technology ...', 'position': 2}, {'title': 'July 2, 2025 - 8-K: Current report | Advanced  │
+│  Micro Devices ... - AMD', 'link':                                                                                   │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000099/amd-20250627.htm', 'snippet':    │
+│  'Lisa T. Su, Chair, President and Chief Executive Officer ; Jean Hu, Executive Vice President, Chief Financial      │
+│  Officer and Treasurer ; Mark ...', 'position': 3}, {'title': 'Financial Analyst Day - Investor Relations - AMD',    │
+│  'link': 'https://ir.amd.com/news-events/financial-analyst-day', 'snippet': 'Dr. Lisa T. Su, Chair and Chief         │
+│  Executive Officer, AMD Vision and Growth Strategy ; Mark Papermaster, Executive Vice President & Chief Technology   │
+│  ...', 'position': 4}, {'title': '[PDF] 10-K/A - 02/04/2026 - AMD', 'link':                                          │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000021/0000002488-26-000021.pdf',       │
+│  'snippet': 'We advanced our AMD AI GPU roadmap to deliver an annual cadence of leadership for AMD Instinct          │
+│  solutions, beginning with the AMD Instinct MI350 ...', 'position': 5}, {'title': '[PDF] BUILDING THE COMPUTE        │
+│  FOUNDATION FOR THE AI ERA - AMD', 'link':                                                                           │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-129106/0001193125-26-129106.pdf',       │
+│  'snippet': '... Mark Papermaster, our Executive Vice President ... /s/ Jean Hu. Jean Hu. Executive Vice President,  │
+│  Chief Financial Officer and. Treasurer.', 'position': 6}, {'title': 'March 28, 2025 - DEF 14A: Definitive proxy     │
+│  statements - AMD', 'link':                                                                                          │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0001193125-25-067170/d869673ddef14a.htm', 'snippet':  │
+│  'If any other business is presented at our Annual Meeting, your proxy gives authority to each of Dr. Lisa T. Su,    │
+│  our Chair, President and Chief ...', 'position': 7}, {'title': '[PDF] Advanced Micro Devices, Inc. - AMD', 'link':  │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000018/0000002488-26-000018.pdf',       │
+│  'snippet': 'No AMD Director, CEO, Executive Vice President or Senior Vice ... Jean Hu and Ava Hahn, and each of     │
+│  them, his or her true and lawful ...', 'position': 8}, {'title': '[PDF] Advanced Micro Devices, Inc. - AMD',        │
+│  'link':                                                                                                             │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000099/0000002488-25-000099.pdf',       │
+│  'snippet': 'Jean Hu, Executive Vice President, Chief Financial Officer and ... Mark Papermaster, Executive Vice     │
+│  President and Chief Technology Officer.', 'position': 9}, {'title': '10-K/A: Annual report [Section 13 and 15(d),   │
+│  not S-K Item 405] - AMD', 'link':                                                                                   │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000021/amd-20251227.htm', 'snippet':    │
+│  'and Mark Papermaster ... ADVANCED MICRO DEVICES, INC. By: /s/ Jean Hu. Jean Hu. Executive Vice President, Chief    │
+│  Financial Officer and Treasurer.', 'position': 10}], 'credits': 1}                                                  │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#9) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'AMD SEC 10-K executive officers Lisa Su Jean Hu Mark Papermaster', 'type':      │
+│  'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Leadership and Executive Team', 'link':        │
+│  'https://www.amd.com/en/corporate/leadership.html', 'snippet': 'Lisa Su. Chair and Chief Executive Officer. Meet    │
+│  Lisa · Darren Grasby ... Mark Papermaster. Executive Vice President, Chief Technology Officer. Meet Mark ...',      │
+│  'position': 1}, {'title': 'July 2, 2025 - 8-K: Current report | Advanced Micro Devices ... - AMD', 'link':          │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000099/amd-20250627.htm', 'snippet':    │
+│  'Lisa T. Su, Chair, President and Chief Executive Officer ; Jean Hu, Executive Vice President, Chief Financial      │
+│  Officer and Treasurer ; Mark ...', 'position': 2}, {'title': 'amd-20230705 - SEC.gov', 'link':                      │
+│  'https://www.sec.gov/Archives/edgar/data/2488/000000248823000123/amd-20230705.htm', 'snippet': 'Lisa T. Su, Chair,  │
+│  President and Chief Executive Officer, $24,000,000. Jean Hu, Executive Vice President, Chief Financial Officer and  │
+│  Treasurer, $7,500,000.', 'position': 3}, {'title': '[PDF] 10-K - 02/05/2025 - AMD', 'link':                         │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000012/0000002488-25-000012.pdf',       │
+│  'snippet': 'ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934. For the fiscal    │
+│  year ended December 28, 2024. OR. ☐.', 'position': 4}, {'title': '[PDF] advanced micro devices, inc. -              │
+│  Cloudfront.net', 'link':                                                                                            │
+│  'https://d1io3yog0oux5.cloudfront.net/_446e5fe1896d9ac0b4f4520139616e51/amd/files/pages/news-events/annual-meeting  │
+│  -of-stockholders/Notice_and_Proxy_Statement.pdf', 'snippet': 'without any charge, a copy of our most recent Annual  │
+│  Report on Form 10-K filed with the SEC. Requests should be directed to our Corporate ...', 'position': 5},          │
+│  {'title': 'AMD | Advanced Micro Devices Inc. Company Profile & Executives', 'link':                                 │
+│  'https://www.wsj.com/market-data/quotes/AMD/company-people?gaa_at=eafs&gaa_n=AWEtsqeMQGEa5GHVZ3aJWkOAJXCFRuwc4ZHlg  │
+│  6tjUMhMI_PqZvN0cWWOZ04V&gaa_ts=69d1ee17&gaa_sig=D1iEmJQRcIiDovdoMChX_rKVhjqMAx9kFleBN2yr8qD8ZdQXHU7DZG3NiceXyQk8SR  │
+│  ODunUiPx8xxOjGATNSlA%3D%3D', 'snippet': 'Advanced Micro Devices, Inc. expand. Executives. Lisa T. Su Chairman,      │
+│  President & Chief Executive Officer ... Papermaster Chief Technology Officer & Executive VP.', 'position': 6},      │
+│  {'title': 'February 17, 2026 - 8-K: Current report | Advanced Micro ... - AMD', 'link':                             │
+│  'https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000029/amd-20260210.htm', 'snippet':    │
+│  'Jean Hu, Executive Vice President, Chief Financial Officer and Treasurer ; Mark Papermaster, Executive Vice        │
+│  President and Chief Technology ...', 'position': 7}, {'title': 'Advanced Micro Devices, Inc. (AMD) Leadership &     │
+│  Management ...', 'link':                                                                                            │
+│  'https://simplywall.st/stocks/at/semiconductors/vie-amd/advanced-micro-devices-shares/management', 'snippet':       │
+│  "Advanced Micro Devices' CEO is Lisa Su, appointed in Aug 2014, has a tenure of 11.58 years. total yearly           │
+│  compensation is $55.16M, comprised of 2.3% salary ...", 'position': 8}, {'title': '10 Amd Executives & Org Chart -  │
+│  Clay', 'link': 'https://www.clay.com/dossier/amd-executives', 'snippet': 'Lisa Su serves as the Chair and Chief     │
+│  Executive Officer at AMD ... Jean Hu serves as the Executive Vice President, Chief Financial Officer ...',          │
+│  'position': 9}, {'title': 'amd-20221231 - SEC.gov', 'link':                                                         │
+│  'https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/amd-20221231.htm', 'snippet': 'We are proud to be  │
+│  led by a highly regarded CEO who has won many esteemed awards for her business and leadership prowess. In 2022,     │
+│  Dr. Lisa Su was listed among ...', 'position': 10}], 'peopleAlsoAsk': [{'question': 'How much do AMD executives     │
+│  make?', 'snippet': 'The average AMD executive compensation is $221,075 a year. The median estimated compensation    │
+│  for executives at AMD including base salary and bonus is $223,700, or $107 per hour. At AMD, the most compensated   │
+│  executive makes $450,000, annually, and the lowest compensated makes $53,000. Last updated months ago.', 'title':   │
+│  'AMD Executive Salaries | Comparably', 'link': 'https://www.comparably.com/companies/amd/executive-salaries'},      │
+│  {'question': 'How much of AMD does Lisa Su own?', 'snippet': "Lisa Su's net worth sits around $1.1 to $1.3          │
+│  billion, driven almost entirely by AMD stock and performance-based compensation. She owns roughly 3.6 to 4 million  │
+│  AMD shares. In 2020, she was the highest-paid CEO in the S&P 500 with a compensation package of $58.5 million,      │
+│  heavily weighted toward performance-based equity.", 'title': "Lisa Su Investments: How AMD's CEO Turned a           │
+│  Near-Bankrupt ...", 'link':                                                                                         │
+│  'https://www.hustlefund.vc/post/angel-squad-lisa-su-investments-how-amds-ceo-turned-a-near-bankrupt-chipmaker-into  │
+│  -a-200-billion-powerhouse'}, {'question': 'Is the CEO of AMD a billionaire?', 'snippet': "Su's mother and Nvidia    │
+│  co-founder and CEO Jensen Huang are first cousins. Su's maternal grandfather is the eldest brother of Huang's       │
+│  mother. After she became CEO of AMD, Su got into the habit of boxing regularly with a trainer. As of 2024, Su had   │
+│  an estimated net worth of more than $1 billion.", 'title': 'Lisa Su - Wikipedia', 'link':                           │
+│  'https://en.wikipedia.org/wiki/Lisa_Su'}], 'relatedSearches': [{'query': 'Jean Hu AMD'}, {'query': 'Dr Lisa Su'},   │
+│  {'query': 'Darren Grasby'}, {'query': 'Lisa Su and Jensen Huang'}, {'query': 'Lisa Su and Jensen Huang related'},   │
+│  {'query': 'Founder of AMD'}, {'query': 'Lisa Tzwu-Fang Su'}, {'query': 'AMD CEO salary'}], 'credits': 1}            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────── ✅ Tool Execution Completed (#9) ──────────────────────────────────────────╮
+│                                                                                                                      │
+│  Tool Completed                                                                                                      │
+│  Tool: search_the_internet_with_serper                                                                               │
+│  Output: {'searchParameters': {'q': 'AMD executive leadership CEO CFO CTO investor relations executive team',        │
+│  'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Leadership and Executive Team',        │
+│  'link': 'https://www.amd.com/en/corporate/leadership.html', 'snippet': 'Executive Leadership Team · Dr. Lisa Su ·   │
+│  Darren Grasby · Philip Guido · Jean Hu · Forrest Norrod · Mark Papermaster · Brian Amick · Martin Ashton.',         │
+│  'position': 1, 'sitelinks': [{'title': 'Dr. Lisa Su', 'link':                                                       │
+│  'https://www.amd.com/en/corporate/leadership.html#:~:text=Dr.%20Lisa%20Su'}, {'title': 'Forrest Norrod', 'link':    │
+│  'https://www.amd.com/en/corporate/leadership.html#:~:text=Forrest%20Norrod'}, {'title': 'Mark Papermaster',         │
+│  'link': 'https://www.amd.com/en/corporate/leadership.html#:~:text=Mark%20Papermaster'}]}, {'title': 'Board of       │
+│  Directors :: Advanced Micro Devices, Inc. (AMD)', 'link': 'https://ir.amd.com/governance/board-of-directors',       │
+│  'snippet': "Dr. Lisa T. Su is AMD Chair, President and Chief Executive Officer. She has served on AMD's Board of    │
+│  Directors since October 2014 and was named Chair of the ...", 'position': 2, 'sitelinks': [{'title': 'Dr. Lisa T.   │
+│  Su', 'link':                                                                                                        │
+│  'https://ir.amd.com/governance/board-of-directors#:~:text=Dr.%20Lisa%20T.%20Su,-Chair%20and%20Chief%20Executive%20  │
+│  Officer'}, {'title': 'Chair And Chief Executive...', 'link':                                                        │
+│  'https://ir.amd.com/governance/board-of-directors#:~:text=Chair%20and%20Chief%20Executive%20Officer'}, {'title':    │
+│  'Nora M. Denzel', 'link':                                                                                           │
+│  'https://ir.amd.com/governance/board-of-directors#:~:text=Nora%20M.%20Denzel,-Lead%20Independent%20Director'}]},    │
+│  {'title': '10 Amd Executives & Org Chart - Clay', 'link': 'https://www.clay.com/dossier/amd-executives',            │
+│  'snippet': "At the top of AMD's organizational chart is Lisa Su, the Chair and Chief Executive Officer, who         │
+│  oversees the overall strategic direction and operational ...", 'position': 3}, {'title': 'Advanced Micro Devices    │
+│  Org Chart | Corporate Leadership Structure', 'link':                                                                │
+│  'http://bullfincher.io/companies/advanced-micro-devices/org-chart', 'snippet': 'Lisa Su. CEO & Board Chair ;        │
+│  Brittany Jedrzejewski. CEO, Communications ; Jean Hu. CFO ; Vinod Singh. Chief Financial Officer ; Darren Grasby.   │
+│  SVP & Chief Sales ...', 'position': 4}, {'title': 'Dr. Lisa Su - AMD Chair and Chief Executive Officer', 'link':    │
+│  'https://www.amd.com/en/corporate/leadership/lisa-su.html', 'snippet': "As chair and chief executive officer at     │
+│  AMD, Dr. Lisa Su has led the company's transformation into the industry's high-performance and adaptive computing   │
+│  leader ...", 'position': 5}, {'title': 'AMD Investor Relations - Advanced Micro Devices Inc - Alpha Spread',        │
+│  'link': 'https://www.alphaspread.com/security/nasdaq/amd/investor-relations', 'snippet': 'Dr. Lisa T. Su is a       │
+│  prominent business executive and electrical engineer, currently serving as the Chair, President, and CEO of         │
+│  Advanced Micro Devices, Inc.', 'position': 6}, {'title': 'Mark Papermaster - CTO and EVP at AMD | LinkedIn',        │
+│  'link': 'https://www.linkedin.com/in/mark-papermaster-66914925', 'snippet': 'Mark Papermaster is an experienced     │
+│  Chief Technology Officer overseeing corporate technical direction and product development with a demonstrated       │
+│  history of ...', 'position': 7, 'sitelinks': [{'title': 'Cto And Evp At Amd', 'link':                               │
+│  'https://www.linkedin.com/in/mark-papermaster-66914925#:~:text=CTO%20and%20EVP%20at%20AMD,-AMD%20The%20University%  │
+│  20of%20Texas'}, {'title': 'Experience', 'link':                                                                     │
+│  'https://www.linkedin.com/in/mark-papermaster-66914925#:~:text=activity-,Experience'}, {'title': 'Honors &          │
+│  Awards', 'link': 'https://www.linkedin.com/in/mark-papermaster-66914925#:~:text=Honors%20%26%20Awards'}]},          │
+│  {'title': 'Jean Hu - AMD', 'link': 'https://www.amd.com/en/corporate/leadership/jean-hu.html', 'snippet': "Jean Hu  │
+│  is executive vice president, chief financial officer and treasurer of AMD, responsible for the company's financial  │
+│  planning and strategy. In this role, ...", 'position': 8}, {'title': 'Advanced Micro Devices, Inc. (AMD)            │
+│  Leadership & Management ...', 'link':                                                                               │
+│  'https://simplywall.st/stocks/ch/semiconductors/vtx-amd/advanced-micro-devices-shares/management', 'snippet':       │
+│  'Leadership Team ; Lisa SuChair, President & CEO ; Jean HuExecutive VP ; Mark PapermasterCTO and Executive VP of    │
+│  Technology & Engineering ; Paul GrasbyExecutive VP ...', 'position': 9}], 'peopleAlsoAsk': [{'question': 'How much  │
+│  do AMD executives make?', 'snippet': 'The average AMD executive compensation is $221,075 a year. The median         │
+│  estimated compensation for executives at AMD including base salary and bonus is $223,700, or $107 per hour. At      │
+│  AMD, the most compensated executive makes $450,000, annually, and the lowest compensated makes $53,000. Last        │
+│  updated months ago.', 'title': 'AMD Executive Salaries | Comparably', 'link':                                       │
+│  'https://www.comparably.com/companies/amd/executive-salaries'}, {'question': 'Who is the CEO of AMD CTO?',          │
+│  'snippet': 'Lisa Tzwu-Fang Su (Chinese: 蘇姿丰; pinyin: Sū Zīfēng; Tâi-lô: Soo Tsu-hong; born November 7, 1969) is  │
+│  a Taiwanese and American business executive, computer scientist, and electrical engineer who has been the           │
+│  president and CEO of the American semiconductor company AMD since 2014.', 'title': 'Lisa Su - Wikipedia', 'link':   │
+│  'https://en.wikipedia.org/wiki/Lisa_Su'}], 'relatedSearches': [{'query': 'Jean Hu AMD'}, {'query': 'AMD executive   │
+│  compensation'}, {'query': 'AMD CEOs List'}, {'query': 'AMD organizational structure'}, {'query': 'Lisa Su and       │
+│  Jensen Huang'}, {'query': 'Vice President of AMD'}, {'query': 'Lisa Su net worth'}, {'query': 'AMD CFO salary'}],   │
+│  'credits': 1}                                                                                                       │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'AMD executive leadership CEO CFO CTO investor relations executive team', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Leadership and Executi...[0m
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'site:amd.com leadership Dr. Lisa Su Jean Hu Mark Papermaster executive team AMD', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Leadership an...[0m
+[32mTool search_the_internet_with_serper executed with result: {'searchParameters': {'q': 'AMD SEC 10-K executive officers Lisa Su Jean Hu Mark Papermaster', 'type': 'search', 'num': 10, 'engine': 'google'}, 'organic': [{'title': 'AMD Leadership and Executive Tea...[0m
+
+╭─────────────────────────────────────────────── ✅ Agent Final Answer ────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Financial Intelligence Analyst for AMD                                                                       │
+│                                                                                                                      │
+│  Final Answer:                                                                                                       │
+│  **AMD is PUBLIC** (NASDAQ: AMD).                                                                                    │
+│                                                                                                                      │
+│  **Key financial metrics**                                                                                           │
+│  - **Annual revenue:** **$25.8B** for FY2024, **up 14% YoY**. Source: AMD FY2024 earnings release / 2024 Annual      │
+│  Report, filed **Feb. 4, 2025**.                                                                                     │
+│  - **Operating income / margin:** **$1.9B operating income** on $25.8B revenue, implying **~7.4% operating           │
+│  margin**. Source: AMD FY2024 earnings release / 2024 Annual Report, **Feb. 4, 2025 / Mar. 2025**.                   │
+│  - **Net income:** **$1.6B** for FY2024. Source: AMD FY2024 earnings release / 2024 Annual Report, **Feb. 4,         │
+│  2025**.                                                                                                             │
+│  - **Cash vs. debt:** **Cash, cash equivalents and short-term investments: $5.1B**; **long-term debt: $1.7B** at     │
+│  FY2024 year-end. Source: AMD 2024 Annual Report, **2024 fiscal year end**.                                          │
+│  - **Market cap:** approximately **$338.0B** as of **Apr. 4, 2026**. Source: Macrotrends market cap page, **Apr. 4,  │
+│  2026**.                                                                                                             │
+│  - **Latest earnings headline:** **Q1 2025 revenue was $7.4B** with **50% gross margin** and **$806M operating       │
+│  income**. Source: AMD Form 8-K / Q1 2025 earnings release, **May 6, 2025**.                                         │
+│                                                                                                                      │
+│  **Financial health assessment (150–200 words)**                                                                     │
+│  AMD’s financial profile looks **Strong**. The company returned to solid top-line expansion in 2024, posting         │
+│  **$25.8B in revenue, up 14%**, driven by strength in data center and client processors. Profitability also          │
+│  improved materially versus the prior year, with **$1.9B in operating income**, **~7.4% operating margin**, and      │
+│  **$1.6B in net income**, showing that growth is increasingly flowing through to earnings. While AMD’s margins       │
+│  remain well below the very top tier of semiconductor peers, the trend is clearly improving.                         │
+│                                                                                                                      │
+│  Balance sheet health is a major positive. AMD ended 2024 with about **$5.1B in cash and short-term investments      │
+│  versus $1.7B in long-term debt**, giving it a **net cash position** and ample flexibility to fund R&D, AI product   │
+│  expansion, and cyclical volatility. The latest quarterly release also suggests momentum continued into 2025, with   │
+│  **Q1 revenue of $7.4B** and healthy profitability.                                                                  │
+│                                                                                                                      │
+│  The main watchpoints are execution in AI/data center, competition with Nvidia and Intel, and cyclicality in         │
+│  gaming/embedded markets. Still, AMD currently combines growth, profitability, and balance sheet strength better     │
+│  than most large-cap chip challengers.                                                                               │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Completed                                                                                                      │
+│  Name: research_financials                                                                                           │
+│  Agent: Financial Intelligence Analyst for AMD                                                                       │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── Crew Completion ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Completed                                                                                            │
+│  Name: crew                                                                                                          │
+│  ID: 0b933c0a-17a3-4aab-8139-9f6f5d73eab9                                                                            │
+│  Final Output: **AMD is PUBLIC** (NASDAQ: AMD).                                                                      │
+│                                                                                                                      │
+│  **Key financial metrics**                                                                                           │
+│  - **Annual revenue:** **$25.8B** for FY2024, **up 14% YoY**. Source: AMD FY2024 earnings release / 2024 Annual      │
+│  Report, filed **Feb. 4, 2025**.                                                                                     │
+│  - **Operating income / margin:** **$1.9B operating income** on $25.8B revenue, implying **~7.4% operating           │
+│  margin**. Source: AMD FY2024 earnings release / 2024 Annual Report, **Feb. 4, 2025 / Mar. 2025**.                   │
+│  - **Net income:** **$1.6B** for FY2024. Source: AMD FY2024 earnings release / 2024 Annual Report, **Feb. 4,         │
+│  2025**.                                                                                                             │
+│  - **Cash vs. debt:** **Cash, cash equivalents and short-term investments: $5.1B**; **long-term debt: $1.7B** at     │
+│  FY2024 year-end. Source: AMD 2024 Annual Report, **2024 fiscal year end**.                                          │
+│  - **Market cap:** approximately **$338.0B** as of **Apr. 4, 2026**. Source: Macrotrends market cap page, **Apr. 4,  │
+│  2026**.                                                                                                             │
+│  - **Latest earnings headline:** **Q1 2025 revenue was $7.4B** with **50% gross margin** and **$806M operating       │
+│  income**. Source: AMD Form 8-K / Q1 2025 earnings release, **May 6, 2025**.                                         │
+│                                                                                                                      │
+│  **Financial health assessment (150–200 words)**                                                                     │
+│  AMD’s financial profile looks **Strong**. The company returned to solid top-line expansion in 2024, posting         │
+│  **$25.8B in revenue, up 14%**, driven by strength in data center and client processors. Profitability also          │
+│  improved materially versus the prior year, with **$1.9B in operating income**, **~7.4% operating margin**, and      │
+│  **$1.6B in net income**, showing that growth is increasingly flowing through to earnings. While AMD’s margins       │
+│  remain well below the very top tier of semiconductor peers, the trend is clearly improving.                         │
+│                                                                                                                      │
+│  Balance sheet health is a major positive. AMD ended 2024 with about **$5.1B in cash and short-term investments      │
+│  versus $1.7B in long-term debt**, giving it a **net cash position** and ample flexibility to fund R&D, AI product   │
+│  expansion, and cyclical volatility. The latest quarterly release also suggests momentum continued into 2025, with   │
+│  **Q1 revenue of $7.4B** and healthy profitability.                                                                  │
+│                                                                                                                      │
+│  The main watchpoints are execution in AI/data center, competition with Nvidia and Intel, and cyclicality in         │
+│  gaming/embedded markets. Still, AMD currently combines growth, profitability, and balance sheet strength better     │
+│  than most large-cap chip challengers.                                                                               │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+[Financials] Done
+╭────────────────────────────────────────────── ✅ Flow Method Completed ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: research_financials                                                                                         │
+│  Status: Completed                                                                                                   │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────── Tracing Status ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Info: Tracing is disabled.                                                                                          │
+│                                                                                                                      │
+│  To enable tracing, do any one of these:                                                                             │
+│  • Set tracing=True in your Crew/Flow code                                                                           │
+│  • Set CREWAI_TRACING_ENABLED=true in your project's .env file                                                       │
+│  • Run: crewai traces enable                                                                                         │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────────── ✅ Agent Final Answer ────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Strategic Initiatives Analyst for AMD                                                                        │
+│                                                                                                                      │
+│  Final Answer:                                                                                                       │
+│  1. **Instinct MI350 / MI355X AI accelerator launch**                                                                │
+│     - **Description:** AMD has launched its next-generation Instinct MI350-series GPUs as the centerpiece of its AI  │
+│  training and inference push, positioning them against Nvidia in hyperscale AI infrastructure.                       │
+│     - **Status:** **Launched / ramping.** Publicly unveiled in 2025 and central to AMD’s current AI go-to-market     │
+│  effort.                                                                                                             │
+│                                                                                                                      │
+│  2. **Helios rack-scale AI systems**                                                                                 │
+│     - **Description:** AMD is moving beyond chips into full rack-scale AI infrastructure with its “Helios”           │
+│  platform, combining Instinct GPUs, EPYC CPUs, Pensando networking and open rack designs aligned with OCP/Meta       │
+│  standards.                                                                                                          │
+│     - **Status:** **Introduced / previewed.** AMD has showcased the platform and is using it to compete for          │
+│  large-scale AI cluster deployments.                                                                                 │
+│                                                                                                                      │
+│  3. **ZT Systems acquisition integration**                                                                           │
+│     - **Description:** AMD completed the acquisition of ZT Systems to add server and rack integration capabilities,  │
+│  enabling it to deliver more complete AI systems rather than only silicon.                                           │
+│     - **Status:** **Completed / integrating.** The acquisition closed in 2025 and is being folded into AMD’s AI      │
+│  infrastructure strategy.                                                                                            │
+│                                                                                                                      │
+│  4. **ROCm and open AI software ecosystem expansion**                                                                │
+│     - **Description:** AMD is investing heavily in ROCm and open software to reduce adoption friction for AI         │
+│  customers and establish a credible alternative to Nvidia’s CUDA ecosystem.                                          │
+│     - **Status:** **Active expansion.** Management highlighted significant ROCm progress through 2024, and it        │
+│  remains a core strategic priority in 2025.                                                                          │
+│                                                                                                                      │
+│  5. **5th Gen EPYC “Turin” server CPU rollout**                                                                      │
+│     - **Description:** AMD launched 5th Gen EPYC processors to strengthen its data-center CPU leadership across      │
+│  enterprise, cloud and AI-adjacent workloads, reinforcing the CPU foundation of its broader AI platform.             │
+│     - **Status:** **Launched / scaling.** Introduced in late 2024 and actively marketed through 2025.                │
+│                                                                                                                      │
+│  6. **Ryzen AI / AI PC expansion**                                                                                   │
+│     - **Description:** AMD is pushing AI-capable client processors to capture the emerging AI PC category,           │
+│  extending its strategy beyond the data center into commercial and consumer endpoints.                               │
+│     - **Status:** **Ongoing rollout.** This remains an active product and ecosystem expansion area, though less      │
+│  strategically decisive than data center AI.                                                                         │
+│                                                                                                                      │
+│  AMD’s most important initiatives are clearly its AI infrastructure stack: Instinct accelerators, Helios rack-scale  │
+│  systems, the ZT Systems integration, and ROCm software. Together, these show AMD shifting from a component          │
+│  supplier to a more complete AI platform company. That matters because the competitive battleground in AI is moving  │
+│  from standalone chips to integrated systems, software, and deployable clusters. EPYC remains strategically          │
+│  important as the stable profit and platform anchor underneath the AI push, while Ryzen AI broadens optionality but  │
+│  is secondary today. Overall, AMD appears to be **on offense**, not defense: it is launching new products,           │
+│  expanding up the stack, and investing to close ecosystem gaps rather than simply protecting share. The main risk    │
+│  is execution—especially whether ROCm maturity and system integration can narrow Nvidia’s lead fast enough. Still,   │
+│  AMD’s current direction shows stronger ambition and better strategic coherence than a year ago. **Momentum rating:  │
+│  Accelerating.**                                                                                                     │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Completed                                                                                                      │
+│  Name: research_initiatives                                                                                          │
+│  Agent: Strategic Initiatives Analyst for AMD                                                                        │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── Crew Completion ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Completed                                                                                            │
+│  Name: crew                                                                                                          │
+│  ID: be28260c-d19a-4610-8e73-3ab9ff4ecb7a                                                                            │
+│  Final Output: 1. **Instinct MI350 / MI355X AI accelerator launch**                                                  │
+│     - **Description:** AMD has launched its next-generation Instinct MI350-series GPUs as the centerpiece of its AI  │
+│  training and inference push, positioning them against Nvidia in hyperscale AI infrastructure.                       │
+│     - **Status:** **Launched / ramping.** Publicly unveiled in 2025 and central to AMD’s current AI go-to-market     │
+│  effort.                                                                                                             │
+│                                                                                                                      │
+│  2. **Helios rack-scale AI systems**                                                                                 │
+│     - **Description:** AMD is moving beyond chips into full rack-scale AI infrastructure with its “Helios”           │
+│  platform, combining Instinct GPUs, EPYC CPUs, Pensando networking and open rack designs aligned with OCP/Meta       │
+│  standards.                                                                                                          │
+│     - **Status:** **Introduced / previewed.** AMD has showcased the platform and is using it to compete for          │
+│  large-scale AI cluster deployments.                                                                                 │
+│                                                                                                                      │
+│  3. **ZT Systems acquisition integration**                                                                           │
+│     - **Description:** AMD completed the acquisition of ZT Systems to add server and rack integration capabilities,  │
+│  enabling it to deliver more complete AI systems rather than only silicon.                                           │
+│     - **Status:** **Completed / integrating.** The acquisition closed in 2025 and is being folded into AMD’s AI      │
+│  infrastructure strategy.                                                                                            │
+│                                                                                                                      │
+│  4. **ROCm and open AI software ecosystem expansion**                                                                │
+│     - **Description:** AMD is investing heavily in ROCm and open software to reduce adoption friction for AI         │
+│  customers and establish a credible alternative to Nvidia’s CUDA ecosystem.                                          │
+│     - **Status:** **Active expansion.** Management highlighted significant ROCm progress through 2024, and it        │
+│  remains a core strategic priority in 2025.                                                                          │
+│                                                                                                                      │
+│  5. **5th Gen EPYC “Turin” server CPU rollout**                                                                      │
+│     - **Description:** AMD launched 5th Gen EPYC processors to strengthen its data-center CPU leadership across      │
+│  enterprise, cloud and AI-adjacent workloads, reinforcing the CPU foundation of its broader AI platform.             │
+│     - **Status:** **Launched / scaling.** Introduced in late 2024 and actively marketed through 2025.                │
+│                                                                                                                      │
+│  6. **Ryzen AI / AI PC expansion**                                                                                   │
+│     - **Description:** AMD is pushing AI-capable client processors to capture the emerging AI PC category,           │
+│  extending its strategy beyond the data center into commercial and consumer endpoints.                               │
+│     - **Status:** **Ongoing rollout.** This remains an active product and ecosystem expansion area, though less      │
+│  strategically decisive than data center AI.                                                                         │
+│                                                                                                                      │
+│  AMD’s most important initiatives are clearly its AI infrastructure stack: Instinct accelerators, Helios rack-scale  │
+│  systems, the ZT Systems integration, and ROCm software. Together, these show AMD shifting from a component          │
+│  supplier to a more complete AI platform company. That matters because the competitive battleground in AI is moving  │
+│  from standalone chips to integrated systems, software, and deployable clusters. EPYC remains strategically          │
+│  important as the stable profit and platform anchor underneath the AI push, while Ryzen AI broadens optionality but  │
+│  is secondary today. Overall, AMD appears to be **on offense**, not defense: it is launching new products,           │
+│  expanding up the stack, and investing to close ecosystem gaps rather than simply protecting share. The main risk    │
+│  is execution—especially whether ROCm maturity and system integration can narrow Nvidia’s lead fast enough. Still,   │
+│  AMD’s current direction shows stronger ambition and better strategic coherence than a year ago. **Momentum rating:  │
+│  Accelerating.**                                                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+[Initiatives] Done
+╭────────────────────────────────────────────── ✅ Flow Method Completed ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: research_initiatives                                                                                        │
+│  Status: Completed                                                                                                   │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────────────── Tracing Status ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Info: Tracing is disabled.                                                                                          │
+│                                                                                                                      │
+│  To enable tracing, do any one of these:                                                                             │
+│  • Set tracing=True in your Crew/Flow code                                                                           │
+│  • Set CREWAI_TRACING_ENABLED=true in your project's .env file                                                       │
+│  • Run: crewai traces enable                                                                                         │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────── ✅ Agent Final Answer ────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Executive Intelligence Analyst for AMD                                                                       │
+│                                                                                                                      │
+│  Final Answer:                                                                                                       │
+│  - **Dr. Lisa Su — Chair, President & CEO**                                                                          │
+│    **Tenure:** CEO since Oct. 2014; board member since 2014; president/chair roles added subsequently.               │
+│    **Background:** Electrical engineer and longtime semiconductor executive. Joined AMD in 2012, previously served   │
+│  as COO and SVP/GM of Global Business Units. Prior roles include senior leadership at **Freescale Semiconductor**,   │
+│  **IBM**, and **Texas Instruments**. Widely credited with leading AMD’s turnaround and repositioning around          │
+│  high-performance computing, data center, and AI.                                                                    │
+│                                                                                                                      │
+│  - **Jean Hu — EVP, CFO & Treasurer**                                                                                │
+│    **Tenure:** CFO since Jan. 2023.                                                                                  │
+│    **Background:** Finance executive with public-company semiconductor and industrial experience. Previously CFO at  │
+│  **Marvell Technology** and before that held senior finance roles at **Qorvo** and **International Paper**. At AMD,  │
+│  she leads financial planning, capital allocation, accounting, tax, treasury, and investor-facing finance            │
+│  functions.                                                                                                          │
+│                                                                                                                      │
+│  - **Mark Papermaster — EVP & CTO**                                                                                  │
+│    **Tenure:** CTO since 2011.                                                                                       │
+│    **Background:** Veteran engineer and product-development leader. Before AMD, he held senior engineering roles at  │
+│  **Cisco** and **IBM**, and was also known for a senior hardware engineering stint at **Apple**. At AMD he oversees  │
+│  corporate technical direction plus core engineering and product-development execution.                              │
+│                                                                                                                      │
+│  - **Darren Grasby — EVP, Chief Sales Officer & President, EMEA**                                                    │
+│    **Tenure:** On AMD’s executive leadership team for several years; current CSO title listed on AMD leadership      │
+│  page.                                                                                                               │
+│    **Background:** Career sales and go-to-market executive with deep semiconductor/channel experience. Leads global  │
+│  sales and customer engagement, important as AMD scales data center and AI deployments.                              │
+│                                                                                                                      │
+│  - **Forrest Norrod — EVP & GM, Data Center Solutions Business Unit**                                                │
+│    **Tenure:** Senior AMD executive since 2018.                                                                      │
+│    **Background:** Former **Dell EMC** executive with strong enterprise infrastructure credentials. Runs one of      │
+│  AMD’s most strategic businesses: server CPUs, accelerators, and data-center platform execution.                     │
+│                                                                                                                      │
+│  **Leadership assessment (≈170 words):**                                                                             │
+│  AMD’s C-suite looks **strong**. The core leadership triangle—Lisa Su, Mark Papermaster, and now Jean Hu—combines    │
+│  deep technical credibility with proven operating and capital-markets discipline. Stability is a clear positive: Su  │
+│  has led AMD for more than a decade, and Papermaster has been CTO since 2011, giving the company unusual continuity  │
+│  for long-cycle semiconductor roadmaps. That matters because AMD’s gains in CPUs, data center, and AI have depended  │
+│  on consistent architectural execution rather than short-term restructuring. Hu is newer, but her prior CFO          │
+│  experience at Marvell adds relevant semiconductor finance depth and supports credibility with investors. Beyond     │
+│  the formal C-suite, leaders like Darren Grasby and Forrest Norrod strengthen commercial and enterprise execution,   │
+│  especially in hyperscale and server markets. Overall, this is a seasoned, high-functioning team with strong domain  │
+│  expertise and evidence of execution against ambitious product roadmaps. Main watchpoint: continued scaling in AI    │
+│  against larger rivals will test bench depth and operating complexity. Still, leadership quality appears well above  │
+│  average for the sector.                                                                                             │
+│                                                                                                                      │
+│  **Overall rating: Strong**                                                                                          │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Completed                                                                                                      │
+│  Name: research_csuite                                                                                               │
+│  Agent: Executive Intelligence Analyst for AMD                                                                       │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── Crew Completion ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Completed                                                                                            │
+│  Name: crew                                                                                                          │
+│  ID: 3b6e3ac0-4aef-47ab-9fd6-adaabcff4845                                                                            │
+│  Final Output: - **Dr. Lisa Su — Chair, President & CEO**                                                            │
+│    **Tenure:** CEO since Oct. 2014; board member since 2014; president/chair roles added subsequently.               │
+│    **Background:** Electrical engineer and longtime semiconductor executive. Joined AMD in 2012, previously served   │
+│  as COO and SVP/GM of Global Business Units. Prior roles include senior leadership at **Freescale Semiconductor**,   │
+│  **IBM**, and **Texas Instruments**. Widely credited with leading AMD’s turnaround and repositioning around          │
+│  high-performance computing, data center, and AI.                                                                    │
+│                                                                                                                      │
+│  - **Jean Hu — EVP, CFO & Treasurer**                                                                                │
+│    **Tenure:** CFO since Jan. 2023.                                                                                  │
+│    **Background:** Finance executive with public-company semiconductor and industrial experience. Previously CFO at  │
+│  **Marvell Technology** and before that held senior finance roles at **Qorvo** and **International Paper**. At AMD,  │
+│  she leads financial planning, capital allocation, accounting, tax, treasury, and investor-facing finance            │
+│  functions.                                                                                                          │
+│                                                                                                                      │
+│  - **Mark Papermaster — EVP & CTO**                                                                                  │
+│    **Tenure:** CTO since 2011.                                                                                       │
+│    **Background:** Veteran engineer and product-development leader. Before AMD, he held senior engineering roles at  │
+│  **Cisco** and **IBM**, and was also known for a senior hardware engineering stint at **Apple**. At AMD he oversees  │
+│  corporate technical direction plus core engineering and product-development execution.                              │
+│                                                                                                                      │
+│  - **Darren Grasby — EVP, Chief Sales Officer & President, EMEA**                                                    │
+│    **Tenure:** On AMD’s executive leadership team for several years; current CSO title listed on AMD leadership      │
+│  page.                                                                                                               │
+│    **Background:** Career sales and go-to-market executive with deep semiconductor/channel experience. Leads global  │
+│  sales and customer engagement, important as AMD scales data center and AI deployments.                              │
+│                                                                                                                      │
+│  - **Forrest Norrod — EVP & GM, Data Center Solutions Business Unit**                                                │
+│    **Tenure:** Senior AMD executive since 2018.                                                                      │
+│    **Background:** Former **Dell EMC** executive with strong enterprise infrastructure credentials. Runs one of      │
+│  AMD’s most strategic businesses: server CPUs, accelerators, and data-center platform execution.                     │
+│                                                                                                                      │
+│  **Leadership assessment (≈170 words):**                                                                             │
+│  AMD’s C-suite looks **strong**. The core leadership triangle—Lisa Su, Mark Papermaster, and now Jean Hu—combines    │
+│  deep technical credibility with proven operating and capital-markets discipline. Stability is a clear positive: Su  │
+│  has led AMD for more than a decade, and Papermaster has been CTO since 2011, giving the company unusual continuity  │
+│  for long-cycle semiconductor roadmaps. That matters because AMD’s gains in CPUs, data center, and AI have depended  │
+│  on consistent architectural execution rather than short-term restructuring. Hu is newer, but her prior CFO          │
+│  experience at Marvell adds relevant semiconductor finance depth and supports credibility with investors. Beyond     │
+│  the formal C-suite, leaders like Darren Grasby and Forrest Norrod strengthen commercial and enterprise execution,   │
+│  especially in hyperscale and server markets. Overall, this is a seasoned, high-functioning team with strong domain  │
+│  expertise and evidence of execution against ambitious product roadmaps. Main watchpoint: continued scaling in AI    │
+│  against larger rivals will test bench depth and operating complexity. Still, leadership quality appears well above  │
+│  average for the sector.                                                                                             │
+│                                                                                                                      │
+│  **Overall rating: Strong**                                                                                          │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+[C-Suite] Done
+
+[Synthesis] All tracks complete — writing report...
+╭────────────────────────────────────────────── ✅ Flow Method Completed ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: research_csuite                                                                                             │
+│  Status: Completed                                                                                                   │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────── 🔄 Flow Method Running ───────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: synthesize                                                                                                  │
+│  Status: Running                                                                                                     │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+╭─────────────────────────────────────────────────── Tracing Status ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Info: Tracing is disabled.                                                                                          │
+│                                                                                                                      │
+│  To enable tracing, do any one of these:                                                                             │
+│  • Set tracing=True in your Crew/Flow code                                                                           │
+│  • Set CREWAI_TRACING_ENABLED=true in your project's .env file                                                       │
+│  • Run: crewai traces enable                                                                                         │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────── 🚀 Crew Execution Started ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Started                                                                                              │
+│  Name: crew                                                                                                          │
+│  ID: 4e3c1e61-b16f-4517-b3f0-22195a43c4f6                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 📋 Task Started ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Started                                                                                                        │
+│  Name: synthesize_report                                                                                             │
+│  ID: 2b95a0fd-1b48-41d9-a894-369f1715377a                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Corporate Research Synthesizer for AMD                                                                       │
+│                                                                                                                      │
+│  Task: Synthesize the following research on AMD into a structured report. Do NOT do additional searches — work only  │
+│  from what's provided below.                                                                                         │
+│  --- LEADERSHIP --- - **Dr. Lisa Su — Chair, President & CEO**                                                       │
+│    **Tenure:** CEO since Oct. 2014; board member since 2014; president/chair roles added subsequently.               │
+│    **Background:** Electrical engineer and longtime semiconductor executive. Joined AMD in 2012, previously served   │
+│  as COO and SVP/GM of Global Business Units. Prior roles include senior leadership at **Freescale Semiconductor**,   │
+│  **IBM**, and **Texas Instruments**. Widely credited with leading AMD’s turnaround and repositioning around          │
+│  high-performance computing, data center, and AI.                                                                    │
+│                                                                                                                      │
+│  - **Jean Hu — EVP, CFO & Treasurer**                                                                                │
+│    **Tenure:** CFO since Jan. 2023.                                                                                  │
+│    **Background:** Finance executive with public-company semiconductor and industrial experience. Previously CFO at  │
+│  **Marvell Technology** and before that held senior finance roles at **Qorvo** and **International Paper**. At AMD,  │
+│  she leads financial planning, capital allocation, accounting, tax, treasury, and investor-facing finance            │
+│  functions.                                                                                                          │
+│                                                                                                                      │
+│  - **Mark Papermaster — EVP & CTO**                                                                                  │
+│    **Tenure:** CTO since 2011.                                                                                       │
+│    **Background:** Veteran engineer and product-development leader. Before AMD, he held senior engineering roles at  │
+│  **Cisco** and **IBM**, and was also known for a senior hardware engineering stint at **Apple**. At AMD he oversees  │
+│  corporate technical direction plus core engineering and product-development execution.                              │
+│                                                                                                                      │
+│  - **Darren Grasby — EVP, Chief Sales Officer & President, EMEA**                                                    │
+│    **Tenure:** On AMD’s executive leadership team for several years; current CSO title listed on AMD leadership      │
+│  page.                                                                                                               │
+│    **Background:** Career sales and go-to-market executive with deep semiconductor/channel experience. Leads global  │
+│  sales and customer engagement, important as AMD scales data center and AI deployments.                              │
+│                                                                                                                      │
+│  - **Forrest Norrod — EVP & GM, Data Center Solutions Business Unit**                                                │
+│    **Tenure:** Senior AMD executive since 2018.                                                                      │
+│    **Background:** Former **Dell EMC** executive with strong enterprise infrastructure credentials. Runs one of      │
+│  AMD’s most strategic businesses: server CPUs, accelerators, and data-center platform execution.                     │
+│                                                                                                                      │
+│  **Leadership assessment (≈170 words):**                                                                             │
+│  AMD’s C-suite looks **strong**. The core leadership triangle—Lisa Su, Mark Papermaster, and now Jean Hu—combines    │
+│  deep technical credibility with proven operating and capital-markets discipline. Stability is a clear positive: Su  │
+│  has led AMD for more than a decade, and Papermaster has been CTO since 2011, giving the company unusual continuity  │
+│  for long-cycle semiconductor roadmaps. That matters because AMD’s gains in CPUs, data center, and AI have depended  │
+│  on consistent architectural execution rather than short-term restructuring. Hu is newer, but her prior CFO          │
+│  experience at Marvell adds relevant semiconductor finance depth and supports credibility with investors. Beyond     │
+│  the formal C-suite, leaders like Darren Grasby and Forrest Norrod strengthen commercial and enterprise execution,   │
+│  especially in hyperscale and server markets. Overall, this is a seasoned, high-functioning team with strong domain  │
+│  expertise and evidence of execution against ambitious product roadmaps. Main watchpoint: continued scaling in AI    │
+│  against larger rivals will test bench depth and operating complexity. Still, leadership quality appears well above  │
+│  average for the sector.                                                                                             │
+│                                                                                                                      │
+│  **Overall rating: Strong**                                                                                          │
+│  --- FINANCIALS --- **AMD is PUBLIC** (NASDAQ: AMD).                                                                 │
+│                                                                                                                      │
+│  **Key financial metrics**                                                                                           │
+│  - **Annual revenue:** **$25.8B** for FY2024, **up 14% YoY**. Source: AMD FY2024 earnings release / 2024 Annual      │
+│  Report, filed **Feb. 4, 2025**.                                                                                     │
+│  - **Operating income / margin:** **$1.9B operating income** on $25.8B revenue, implying **~7.4% operating           │
+│  margin**. Source: AMD FY2024 earnings release / 2024 Annual Report, **Feb. 4, 2025 / Mar. 2025**.                   │
+│  - **Net income:** **$1.6B** for FY2024. Source: AMD FY2024 earnings release / 2024 Annual Report, **Feb. 4,         │
+│  2025**.                                                                                                             │
+│  - **Cash vs. debt:** **Cash, cash equivalents and short-term investments: $5.1B**; **long-term debt: $1.7B** at     │
+│  FY2024 year-end. Source: AMD 2024 Annual Report, **2024 fiscal year end**.                                          │
+│  - **Market cap:** approximately **$338.0B** as of **Apr. 4, 2026**. Source: Macrotrends market cap page, **Apr. 4,  │
+│  2026**.                                                                                                             │
+│  - **Latest earnings headline:** **Q1 2025 revenue was $7.4B** with **50% gross margin** and **$806M operating       │
+│  income**. Source: AMD Form 8-K / Q1 2025 earnings release, **May 6, 2025**.                                         │
+│                                                                                                                      │
+│  **Financial health assessment (150–200 words)**                                                                     │
+│  AMD’s financial profile looks **Strong**. The company returned to solid top-line expansion in 2024, posting         │
+│  **$25.8B in revenue, up 14%**, driven by strength in data center and client processors. Profitability also          │
+│  improved materially versus the prior year, with **$1.9B in operating income**, **~7.4% operating margin**, and      │
+│  **$1.6B in net income**, showing that growth is increasingly flowing through to earnings. While AMD’s margins       │
+│  remain well below the very top tier of semiconductor peers, the trend is clearly improving.                         │
+│                                                                                                                      │
+│  Balance sheet health is a major positive. AMD ended 2024 with about **$5.1B in cash and short-term investments      │
+│  versus $1.7B in long-term debt**, giving it a **net cash position** and ample flexibility to fund R&D, AI product   │
+│  expansion, and cyclical volatility. The latest quarterly release also suggests momentum continued into 2025, with   │
+│  **Q1 revenue of $7.4B** and healthy profitability.                                                                  │
+│                                                                                                                      │
+│  The main watchpoints are execution in AI/data center, competition with Nvidia and Intel, and cyclicality in         │
+│  gaming/embedded markets. Still, AMD currently combines growth, profitability, and balance sheet strength better     │
+│  than most large-cap chip challengers.                                                                               │
+│  --- STRATEGIC INITIATIVES --- 1. **Instinct MI350 / MI355X AI accelerator launch**                                  │
+│     - **Description:** AMD has launched its next-generation Instinct MI350-series GPUs as the centerpiece of its AI  │
+│  training and inference push, positioning them against Nvidia in hyperscale AI infrastructure.                       │
+│     - **Status:** **Launched / ramping.** Publicly unveiled in 2025 and central to AMD’s current AI go-to-market     │
+│  effort.                                                                                                             │
+│                                                                                                                      │
+│  2. **Helios rack-scale AI systems**                                                                                 │
+│     - **Description:** AMD is moving beyond chips into full rack-scale AI infrastructure with its “Helios”           │
+│  platform, combining Instinct GPUs, EPYC CPUs, Pensando networking and open rack designs aligned with OCP/Meta       │
+│  standards.                                                                                                          │
+│     - **Status:** **Introduced / previewed.** AMD has showcased the platform and is using it to compete for          │
+│  large-scale AI cluster deployments.                                                                                 │
+│                                                                                                                      │
+│  3. **ZT Systems acquisition integration**                                                                           │
+│     - **Description:** AMD completed the acquisition of ZT Systems to add server and rack integration capabilities,  │
+│  enabling it to deliver more complete AI systems rather than only silicon.                                           │
+│     - **Status:** **Completed / integrating.** The acquisition closed in 2025 and is being folded into AMD’s AI      │
+│  infrastructure strategy.                                                                                            │
+│                                                                                                                      │
+│  4. **ROCm and open AI software ecosystem expansion**                                                                │
+│     - **Description:** AMD is investing heavily in ROCm and open software to reduce adoption friction for AI         │
+│  customers and establish a credible alternative to Nvidia’s CUDA ecosystem.                                          │
+│     - **Status:** **Active expansion.** Management highlighted significant ROCm progress through 2024, and it        │
+│  remains a core strategic priority in 2025.                                                                          │
+│                                                                                                                      │
+│  5. **5th Gen EPYC “Turin” server CPU rollout**                                                                      │
+│     - **Description:** AMD launched 5th Gen EPYC processors to strengthen its data-center CPU leadership across      │
+│  enterprise, cloud and AI-adjacent workloads, reinforcing the CPU foundation of its broader AI platform.             │
+│     - **Status:** **Launched / scaling.** Introduced in late 2024 and actively marketed through 2025.                │
+│                                                                                                                      │
+│  6. **Ryzen AI / AI PC expansion**                                                                                   │
+│     - **Description:** AMD is pushing AI-capable client processors to capture the emerging AI PC category,           │
+│  extending its strategy beyond the data center into commercial and consumer endpoints.                               │
+│     - **Status:** **Ongoing rollout.** This remains an active product and ecosystem expansion area, though less      │
+│  strategically decisive than data center AI.                                                                         │
+│                                                                                                                      │
+│  AMD’s most important initiatives are clearly its AI infrastructure stack: Instinct accelerators, Helios rack-scale  │
+│  systems, the ZT Systems integration, and ROCm software. Together, these show AMD shifting from a component          │
+│  supplier to a more complete AI platform company. That matters because the competitive battleground in AI is moving  │
+│  from standalone chips to integrated systems, software, and deployable clusters. EPYC remains strategically          │
+│  important as the stable profit and platform anchor underneath the AI push, while Ryzen AI broadens optionality but  │
+│  is secondary today. Overall, AMD appears to be **on offense**, not defense: it is launching new products,           │
+│  expanding up the stack, and investing to close ecosystem gaps rather than simply protecting share. The main risk    │
+│  is execution—especially whether ROCm maturity and system integration can narrow Nvidia’s lead fast enough. Still,   │
+│  AMD’s current direction shows stronger ambition and better strategic coherence than a year ago. **Momentum rating:  │
+│  Accelerating.**                                                                                                     │
+│  ---                                                                                                                 │
+│  Write a report with these sections (800–1,200 words total):                                                         │
+│  ## Executive Summary 3–5 sentences: who they are, where they stand, what matters most right now.                    │
+│  ## Leadership Key executives, team quality, notable strengths or risks.                                             │
+│  ## Financial Profile Key metrics, growth trend, health rating.                                                      │
+│  ## Strategic Initiatives Top 3 initiatives and what they signal about direction.                                    │
+│  ## Key Risks Top 3 risks across all dimensions.                                                                     │
+│  ## Overall Assessment One paragraph verdict + rating: Compelling / Promising / Neutral / Cautious / Avoid.          │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────────── ✅ Agent Final Answer ────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Agent: Corporate Research Synthesizer for AMD                                                                       │
+│                                                                                                                      │
+│  Final Answer:                                                                                                       │
+│  # AMD Company Intelligence Report                                                                                   │
+│                                                                                                                      │
+│  ## Executive Summary                                                                                                │
+│                                                                                                                      │
+│  Advanced Micro Devices (NASDAQ: AMD) has evolved from a CPU challenger into a broader high-performance computing    │
+│  and AI infrastructure company, led by one of the semiconductor sector’s strongest executive teams. The company      │
+│  entered 2025 with improving financial momentum—FY2024 revenue rose 14% to $25.8 billion, profitability improved,    │
+│  and the balance sheet remained firmly net cash positive. What matters most now is whether AMD can translate         │
+│  product strength in EPYC CPUs and Instinct accelerators into durable share gains in AI systems, where competition   │
+│  increasingly depends on full-stack execution across silicon, software, and rack-scale infrastructure. In that       │
+│  context, AMD’s strategic posture is notably more ambitious than a year ago, but execution against Nvidia’s          │
+│  ecosystem advantage remains the central test.                                                                       │
+│                                                                                                                      │
+│  ## Leadership                                                                                                       │
+│                                                                                                                      │
+│  AMD’s leadership team is a major asset and a meaningful source of strategic credibility. Chair, President, and CEO  │
+│  Dr. Lisa Su has led the company since October 2014 and is widely recognized as the architect of AMD’s turnaround.   │
+│  Her tenure stands out not only for longevity but for consistency of strategic direction: under her leadership, AMD  │
+│  repositioned around high-performance computing, data center, and now AI, moving well beyond a legacy PC-centric     │
+│  narrative. Her technical background and prior leadership experience at Freescale, IBM, and Texas Instruments have   │
+│  helped AMD maintain strong product and engineering discipline over long development cycles.                         │
+│                                                                                                                      │
+│  That strength is reinforced by Mark Papermaster, EVP and CTO since 2011. Papermaster brings deep engineering        │
+│  leadership from IBM, Cisco, and Apple, and has provided continuity in AMD’s technical roadmap during a period when  │
+│  product execution has been central to the company’s resurgence. The stability of the Su-Papermaster pairing is a    │
+│  differentiator in a sector where roadmaps can slip and strategic pivots often create organizational whiplash.       │
+│                                                                                                                      │
+│  Jean Hu, who became CFO in January 2023, adds another important dimension. Her prior CFO experience at Marvell and  │
+│  earlier finance roles at Qorvo and International Paper make her a relevant choice for a company balancing growth    │
+│  investment, investor expectations, and capital allocation discipline. AMD’s recent financial progress gives her     │
+│  added credibility in communicating the company’s scaling story to the market.                                       │
+│                                                                                                                      │
+│  The broader leadership bench is also aligned with AMD’s current priorities. Darren Grasby, EVP, Chief Sales         │
+│  Officer and President, EMEA, strengthens global go-to-market execution, especially as AI and data center wins       │
+│  depend on deep customer engagement rather than transactional chip sales. Forrest Norrod, EVP and GM of the Data     │
+│  Center Solutions Business Unit, brings strong enterprise infrastructure expertise from Dell EMC and runs one of     │
+│  AMD’s most strategically important businesses.                                                                      │
+│                                                                                                                      │
+│  Overall team quality appears well above sector average. The key strengths are technical depth, execution            │
+│  continuity, and increasing commercial relevance in hyperscale and enterprise markets. The principal leadership      │
+│  risk is not capability but scale: as AMD pushes deeper into AI systems and infrastructure, operating complexity     │
+│  rises substantially. Sustaining execution while expanding beyond chips into more integrated solutions will test     │
+│  organizational depth.                                                                                               │
+│                                                                                                                      │
+│  ## Financial Profile                                                                                                │
+│                                                                                                                      │
+│  AMD’s financial profile is strong and improving. For FY2024, the company reported revenue of $25.8 billion, up 14%  │
+│  year over year, reflecting renewed growth and support from stronger data center and client processor demand.        │
+│  Operating income reached $1.9 billion, implying an operating margin of roughly 7.4%, while net income totaled $1.6  │
+│  billion. These figures indicate that AMD is not only growing again but also converting more of that growth into     │
+│  earnings.                                                                                                           │
+│                                                                                                                      │
+│  The balance sheet is a clear positive. AMD ended 2024 with $5.1 billion in cash, cash equivalents, and short-term   │
+│  investments against $1.7 billion in long-term debt, leaving the company in a net cash position. That gives AMD      │
+│  flexibility to fund R&D, support product ramps, absorb cyclical volatility, and invest in AI-related expansion      │
+│  without balance sheet strain.                                                                                       │
+│                                                                                                                      │
+│  Momentum appears to have continued into 2025. In Q1 2025, AMD reported revenue of $7.4 billion, 50% gross margin,   │
+│  and $806 million in operating income. While one quarter does not define a trend, those numbers support the view     │
+│  that the company is entering 2025 with healthy demand and improving profitability.                                  │
+│                                                                                                                      │
+│  From a market perspective, AMD’s approximately $338.0 billion market capitalization as of April 4, 2026 shows       │
+│  investors are already assigning significant value to its role in AI and data center infrastructure. That valuation  │
+│  implies confidence, but also raises the execution bar.                                                              │
+│                                                                                                                      │
+│  **Health rating: Strong.**                                                                                          │
+│  AMD combines revenue growth, improving earnings, and a solid net cash balance sheet better than most large-cap      │
+│  semiconductor challengers. The main financial watchpoints are margin sustainability, competitive pricing pressure   │
+│  in AI, and exposure to more cyclical end markets such as gaming and embedded.                                       │
+│                                                                                                                      │
+│  ## Strategic Initiatives                                                                                            │
+│                                                                                                                      │
+│  ### 1. Instinct MI350/MI355X launch and broader AI accelerator push                                                 │
+│  AMD’s most important initiative is the launch and ramp of its next-generation Instinct MI350-series GPUs. This is   │
+│  the centerpiece of the company’s AI training and inference strategy and its most direct attempt to capture a        │
+│  larger share of hyperscale AI infrastructure spending. The significance goes beyond a single product cycle: it      │
+│  signals that AMD sees AI accelerators as a core growth engine, not an adjacency. If successful, this initiative     │
+│  can meaningfully expand AMD’s relevance in one of the fastest-growing segments of semiconductors.                   │
+│                                                                                                                      │
+│  ### 2. Helios rack-scale systems plus ZT Systems integration                                                        │
+│  AMD is moving up the stack from component supplier to systems provider through its Helios rack-scale AI platform    │
+│  and the completed acquisition of ZT Systems. Helios combines Instinct GPUs, EPYC CPUs, Pensando networking, and     │
+│  open rack designs, while ZT adds server and rack integration capabilities. Together, they signal a strategic        │
+│  shift: AMD is no longer competing only on chip performance, but on deployable AI infrastructure. This is a          │
+│  necessary move in a market where customers increasingly buy integrated clusters rather than isolated silicon.       │
+│                                                                                                                      │
+│  ### 3. ROCm software ecosystem expansion                                                                            │
+│  ROCm is strategically critical because hardware alone will not close the gap with Nvidia. AMD’s continued           │
+│  investment in ROCm and open AI software signals recognition that ecosystem maturity, developer adoption, and        │
+│  deployment friction are now central competitive variables. This initiative matters because it addresses AMD’s       │
+│  biggest structural disadvantage: Nvidia’s software lock-in and developer mindshare. Progress here would strengthen  │
+│  the entire AI stack, from accelerators to systems.                                                                  │
+│                                                                                                                      │
+│  Taken together, these initiatives show a more coherent and aggressive AMD. EPYC “Turin” remains an important        │
+│  platform anchor, and Ryzen AI adds optionality in client computing, but the clearest directional signal is that     │
+│  AMD is building toward full-stack AI infrastructure leadership rather than simply defending its traditional CPU     │
+│  businesses.                                                                                                         │
+│                                                                                                                      │
+│  ## Key Risks                                                                                                        │
+│                                                                                                                      │
+│  ### 1. AI execution risk versus larger incumbents                                                                   │
+│  AMD’s opportunity in AI is substantial, but so is the challenge. Nvidia’s lead in accelerators, software, and       │
+│  ecosystem adoption remains formidable, and Intel remains a significant competitor in broader compute markets. AMD   │
+│  must prove that its new accelerators, systems, and software can scale in real customer environments—not just        │
+│  benchmark well or generate launch enthusiasm.                                                                       │
+│                                                                                                                      │
+│  ### 2. Software and ecosystem gap                                                                                   │
+│  ROCm is improving, but AMD is still working to reduce friction for developers and enterprise customers accustomed   │
+│  to CUDA-centric workflows. If software maturity lags hardware progress, AMD may struggle to convert product         │
+│  interest into sustained production deployments. This is arguably the most important strategic risk because          │
+│  ecosystem weakness can limit otherwise strong silicon.                                                              │
+│                                                                                                                      │
+│  ### 3. Increasing operational complexity                                                                            │
+│  AMD is entering a more demanding phase of its evolution. Moving into rack-scale systems, integrating ZT Systems,    │
+│  and coordinating CPUs, GPUs, networking, and software creates a materially more complex operating model. That       │
+│  raises execution risk across product delivery, customer support, supply chain coordination, and organizational      │
+│  integration. A stronger strategy can still underperform if the company’s systems execution does not scale with its  │
+│  ambition.                                                                                                           │
+│                                                                                                                      │
+│  ## Overall Assessment                                                                                               │
+│                                                                                                                      │
+│  AMD looks **Compelling**. The company combines strong leadership, improving financial performance, a healthy        │
+│  balance sheet, and a strategy that is increasingly aligned with where the AI infrastructure market is going. Most   │
+│  importantly, AMD is acting offensively: launching new accelerators, expanding into rack-scale systems, integrating  │
+│  server capabilities, and investing in software to become a more complete platform provider. The central question    │
+│  is no longer whether AMD has strategic ambition—it clearly does—but whether it can execute quickly enough to        │
+│  narrow ecosystem and scale advantages held by larger rivals. On balance, AMD’s current profile supports a           │
+│  favorable view: this is a high-quality semiconductor company with real momentum and meaningful upside if AI         │
+│  execution continues to improve. **Rating: Compelling.**                                                             │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Task Completed                                                                                                      │
+│  Name: synthesize_report                                                                                             │
+│  Agent: Corporate Research Synthesizer for AMD                                                                       │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────── Crew Completion ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Crew Execution Completed                                                                                            │
+│  Name: crew                                                                                                          │
+│  ID: 4e3c1e61-b16f-4517-b3f0-22195a43c4f6                                                                            │
+│  Final Output: # AMD Company Intelligence Report                                                                     │
+│                                                                                                                      │
+│  ## Executive Summary                                                                                                │
+│                                                                                                                      │
+│  Advanced Micro Devices (NASDAQ: AMD) has evolved from a CPU challenger into a broader high-performance computing    │
+│  and AI infrastructure company, led by one of the semiconductor sector’s strongest executive teams. The company      │
+│  entered 2025 with improving financial momentum—FY2024 revenue rose 14% to $25.8 billion, profitability improved,    │
+│  and the balance sheet remained firmly net cash positive. What matters most now is whether AMD can translate         │
+│  product strength in EPYC CPUs and Instinct accelerators into durable share gains in AI systems, where competition   │
+│  increasingly depends on full-stack execution across silicon, software, and rack-scale infrastructure. In that       │
+│  context, AMD’s strategic posture is notably more ambitious than a year ago, but execution against Nvidia’s          │
+│  ecosystem advantage remains the central test.                                                                       │
+│                                                                                                                      │
+│  ## Leadership                                                                                                       │
+│                                                                                                                      │
+│  AMD’s leadership team is a major asset and a meaningful source of strategic credibility. Chair, President, and CEO  │
+│  Dr. Lisa Su has led the company since October 2014 and is widely recognized as the architect of AMD’s turnaround.   │
+│  Her tenure stands out not only for longevity but for consistency of strategic direction: under her leadership, AMD  │
+│  repositioned around high-performance computing, data center, and now AI, moving well beyond a legacy PC-centric     │
+│  narrative. Her technical background and prior leadership experience at Freescale, IBM, and Texas Instruments have   │
+│  helped AMD maintain strong product and engineering discipline over long development cycles.                         │
+│                                                                                                                      │
+│  That strength is reinforced by Mark Papermaster, EVP and CTO since 2011. Papermaster brings deep engineering        │
+│  leadership from IBM, Cisco, and Apple, and has provided continuity in AMD’s technical roadmap during a period when  │
+│  product execution has been central to the company’s resurgence. The stability of the Su-Papermaster pairing is a    │
+│  differentiator in a sector where roadmaps can slip and strategic pivots often create organizational whiplash.       │
+│                                                                                                                      │
+│  Jean Hu, who became CFO in January 2023, adds another important dimension. Her prior CFO experience at Marvell and  │
+│  earlier finance roles at Qorvo and International Paper make her a relevant choice for a company balancing growth    │
+│  investment, investor expectations, and capital allocation discipline. AMD’s recent financial progress gives her     │
+│  added credibility in communicating the company’s scaling story to the market.                                       │
+│                                                                                                                      │
+│  The broader leadership bench is also aligned with AMD’s current priorities. Darren Grasby, EVP, Chief Sales         │
+│  Officer and President, EMEA, strengthens global go-to-market execution, especially as AI and data center wins       │
+│  depend on deep customer engagement rather than transactional chip sales. Forrest Norrod, EVP and GM of the Data     │
+│  Center Solutions Business Unit, brings strong enterprise infrastructure expertise from Dell EMC and runs one of     │
+│  AMD’s most strategically important businesses.                                                                      │
+│                                                                                                                      │
+│  Overall team quality appears well above sector average. The key strengths are technical depth, execution            │
+│  continuity, and increasing commercial relevance in hyperscale and enterprise markets. The principal leadership      │
+│  risk is not capability but scale: as AMD pushes deeper into AI systems and infrastructure, operating complexity     │
+│  rises substantially. Sustaining execution while expanding beyond chips into more integrated solutions will test     │
+│  organizational depth.                                                                                               │
+│                                                                                                                      │
+│  ## Financial Profile                                                                                                │
+│                                                                                                                      │
+│  AMD’s financial profile is strong and improving. For FY2024, the company reported revenue of $25.8 billion, up 14%  │
+│  year over year, reflecting renewed growth and support from stronger data center and client processor demand.        │
+│  Operating income reached $1.9 billion, implying an operating margin of roughly 7.4%, while net income totaled $1.6  │
+│  billion. These figures indicate that AMD is not only growing again but also converting more of that growth into     │
+│  earnings.                                                                                                           │
+│                                                                                                                      │
+│  The balance sheet is a clear positive. AMD ended 2024 with $5.1 billion in cash, cash equivalents, and short-term   │
+│  investments against $1.7 billion in long-term debt, leaving the company in a net cash position. That gives AMD      │
+│  flexibility to fund R&D, support product ramps, absorb cyclical volatility, and invest in AI-related expansion      │
+│  without balance sheet strain.                                                                                       │
+│                                                                                                                      │
+│  Momentum appears to have continued into 2025. In Q1 2025, AMD reported revenue of $7.4 billion, 50% gross margin,   │
+│  and $806 million in operating income. While one quarter does not define a trend, those numbers support the view     │
+│  that the company is entering 2025 with healthy demand and improving profitability.                                  │
+│                                                                                                                      │
+│  From a market perspective, AMD’s approximately $338.0 billion market capitalization as of April 4, 2026 shows       │
+│  investors are already assigning significant value to its role in AI and data center infrastructure. That valuation  │
+│  implies confidence, but also raises the execution bar.                                                              │
+│                                                                                                                      │
+│  **Health rating: Strong.**                                                                                          │
+│  AMD combines revenue growth, improving earnings, and a solid net cash balance sheet better than most large-cap      │
+│  semiconductor challengers. The main financial watchpoints are margin sustainability, competitive pricing pressure   │
+│  in AI, and exposure to more cyclical end markets such as gaming and embedded.                                       │
+│                                                                                                                      │
+│  ## Strategic Initiatives                                                                                            │
+│                                                                                                                      │
+│  ### 1. Instinct MI350/MI355X launch and broader AI accelerator push                                                 │
+│  AMD’s most important initiative is the launch and ramp of its next-generation Instinct MI350-series GPUs. This is   │
+│  the centerpiece of the company’s AI training and inference strategy and its most direct attempt to capture a        │
+│  larger share of hyperscale AI infrastructure spending. The significance goes beyond a single product cycle: it      │
+│  signals that AMD sees AI accelerators as a core growth engine, not an adjacency. If successful, this initiative     │
+│  can meaningfully expand AMD’s relevance in one of the fastest-growing segments of semiconductors.                   │
+│                                                                                                                      │
+│  ### 2. Helios rack-scale systems plus ZT Systems integration                                                        │
+│  AMD is moving up the stack from component supplier to systems provider through its Helios rack-scale AI platform    │
+│  and the completed acquisition of ZT Systems. Helios combines Instinct GPUs, EPYC CPUs, Pensando networking, and     │
+│  open rack designs, while ZT adds server and rack integration capabilities. Together, they signal a strategic        │
+│  shift: AMD is no longer competing only on chip performance, but on deployable AI infrastructure. This is a          │
+│  necessary move in a market where customers increasingly buy integrated clusters rather than isolated silicon.       │
+│                                                                                                                      │
+│  ### 3. ROCm software ecosystem expansion                                                                            │
+│  ROCm is strategically critical because hardware alone will not close the gap with Nvidia. AMD’s continued           │
+│  investment in ROCm and open AI software signals recognition that ecosystem maturity, developer adoption, and        │
+│  deployment friction are now central competitive variables. This initiative matters because it addresses AMD’s       │
+│  biggest structural disadvantage: Nvidia’s software lock-in and developer mindshare. Progress here would strengthen  │
+│  the entire AI stack, from accelerators to systems.                                                                  │
+│                                                                                                                      │
+│  Taken together, these initiatives show a more coherent and aggressive AMD. EPYC “Turin” remains an important        │
+│  platform anchor, and Ryzen AI adds optionality in client computing, but the clearest directional signal is that     │
+│  AMD is building toward full-stack AI infrastructure leadership rather than simply defending its traditional CPU     │
+│  businesses.                                                                                                         │
+│                                                                                                                      │
+│  ## Key Risks                                                                                                        │
+│                                                                                                                      │
+│  ### 1. AI execution risk versus larger incumbents                                                                   │
+│  AMD’s opportunity in AI is substantial, but so is the challenge. Nvidia’s lead in accelerators, software, and       │
+│  ecosystem adoption remains formidable, and Intel remains a significant competitor in broader compute markets. AMD   │
+│  must prove that its new accelerators, systems, and software can scale in real customer environments—not just        │
+│  benchmark well or generate launch enthusiasm.                                                                       │
+│                                                                                                                      │
+│  ### 2. Software and ecosystem gap                                                                                   │
+│  ROCm is improving, but AMD is still working to reduce friction for developers and enterprise customers accustomed   │
+│  to CUDA-centric workflows. If software maturity lags hardware progress, AMD may struggle to convert product         │
+│  interest into sustained production deployments. This is arguably the most important strategic risk because          │
+│  ecosystem weakness can limit otherwise strong silicon.                                                              │
+│                                                                                                                      │
+│  ### 3. Increasing operational complexity                                                                            │
+│  AMD is entering a more demanding phase of its evolution. Moving into rack-scale systems, integrating ZT Systems,    │
+│  and coordinating CPUs, GPUs, networking, and software creates a materially more complex operating model. That       │
+│  raises execution risk across product delivery, customer support, supply chain coordination, and organizational      │
+│  integration. A stronger strategy can still underperform if the company’s systems execution does not scale with its  │
+│  ambition.                                                                                                           │
+│                                                                                                                      │
+│  ## Overall Assessment                                                                                               │
+│                                                                                                                      │
+│  AMD looks **Compelling**. The company combines strong leadership, improving financial performance, a healthy        │
+│  balance sheet, and a strategy that is increasingly aligned with where the AI infrastructure market is going. Most   │
+│  importantly, AMD is acting offensively: launching new accelerators, expanding into rack-scale systems, integrating  │
+│  server capabilities, and investing in software to become a more complete platform provider. The central question    │
+│  is no longer whether AMD has strategic ambition—it clearly does—but whether it can execute quickly enough to        │
+│  narrow ecosystem and scale advantages held by larger rivals. On balance, AMD’s current profile supports a           │
+│  favorable view: this is a high-quality semiconductor company with real momentum and meaningful upside if AI         │
+│  execution continues to improve. **Rating: Compelling.**                                                             │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+[Synthesis] Done → output/company_research_report.md
+╭────────────────────────────────────────────── ✅ Flow Method Completed ──────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Method: synthesize                                                                                                  │
+│  Status: Completed                                                                                                   │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────────────── Tracing Status ───────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Info: Tracing is disabled.                                                                                          │
+│                                                                                                                      │
+│  To enable tracing, do any one of these:                                                                             │
+│  • Set tracing=True in your Crew/Flow code                                                                           │
+│  • Set CREWAI_TRACING_ENABLED=true in your project's .env file                                                       │
+│  • Run: crewai traces enable                                                                                         │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────── ✅ Flow Completion ─────────────────────────────────────────────────╮
+│                                                                                                                      │
+│  Flow Execution Completed                                                                                            │
+│  Name: CompanyResearchFlow                                                                                           │
+│  ID: 142bf5f9-8c97-4f54-9d20-00689400fc85                                                                            │
+│                                                                                                                      │
+│                                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+Done. Report saved to output/company_research_report.md
+
